@@ -1,983 +1,897 @@
 [
     {
         "name": "LabubuBrown",
-        "pathCate": "D:\\Example\\MyPet\\LabubuBrown",
+        "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/pet/LabubuBrown.png",
         "anim": [
             {
                 "id": 1,
                 "name": "Dance1",
-                "path": "D:\\Example\\MyPet\\LabubuBrown\\Dance1.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBrown\\Dance1.gif"
             },
             {
                 "id": 2,
                 "name": "Dance2",
-                "path": "D:\\Example\\MyPet\\LabubuBrown\\Dance2.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBrown\\Dance2.gif"
             },
             {
                 "id": 3,
                 "name": "Dance3",
-                "path": "D:\\Example\\MyPet\\LabubuBrown\\Dance3.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBrown\\Dance3.gif"
             },
             {
                 "id": 4,
                 "name": "Drop_Done",
-                "path": "D:\\Example\\MyPet\\LabubuBrown\\Drop_Done.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBrown\\Drop_Done.gif"
             },
             {
                 "id": 5,
                 "name": "Drop_Start",
-                "path": "D:\\Example\\MyPet\\LabubuBrown\\Drop_Start.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBrown\\Drop_Start.gif"
             },
             {
                 "id": 6,
                 "name": "Drum",
-                "path": "D:\\Example\\MyPet\\LabubuBrown\\Drum.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBrown\\Drum.gif"
             },
             {
                 "id": 7,
                 "name": "Fly",
-                "path": "D:\\Example\\MyPet\\LabubuBrown\\Fly.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBrown\\Fly.gif"
             },
             {
                 "id": 8,
                 "name": "Move",
-                "path": "D:\\Example\\MyPet\\LabubuBrown\\Move.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBrown\\Move.gif"
             },
             {
                 "id": 9,
                 "name": "Play",
-                "path": "D:\\Example\\MyPet\\LabubuBrown\\Play.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBrown\\Play.gif"
             },
             {
                 "id": 10,
                 "name": "Sleep",
-                "path": "D:\\Example\\MyPet\\LabubuBrown\\Sleep.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBrown\\Sleep.gif"
             }
         ]
     },
     {
         "name": "LabubuDarkPink",
-        "pathCate": "D:\\Example\\MyPet\\LabubuDarkPink",
+        "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/pet/LabubuDarkPink.png",
         "anim": [
             {
                 "id": 1,
                 "name": "Dance1",
-                "path": "D:\\Example\\MyPet\\LabubuDarkPink\\Dance1.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDarkPink\\Dance1.gif"
             },
             {
                 "id": 2,
                 "name": "Dance2",
-                "path": "D:\\Example\\MyPet\\LabubuDarkPink\\Dance2.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDarkPink\\Dance2.gif"
             },
             {
                 "id": 3,
                 "name": "Dance3",
-                "path": "D:\\Example\\MyPet\\LabubuDarkPink\\Dance3.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDarkPink\\Dance3.gif"
             },
             {
                 "id": 4,
                 "name": "Drop_Done",
-                "path": "D:\\Example\\MyPet\\LabubuDarkPink\\Drop_Done.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDarkPink\\Drop_Done.gif"
             },
             {
                 "id": 5,
                 "name": "Drop_Start",
-                "path": "D:\\Example\\MyPet\\LabubuDarkPink\\Drop_Start.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDarkPink\\Drop_Start.gif"
             },
             {
                 "id": 6,
                 "name": "Drum",
-                "path": "D:\\Example\\MyPet\\LabubuDarkPink\\Drum.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDarkPink\\Drum.gif"
             },
             {
                 "id": 7,
                 "name": "Fly",
-                "path": "D:\\Example\\MyPet\\LabubuDarkPink\\Fly.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDarkPink\\Fly.gif"
             },
             {
                 "id": 8,
                 "name": "Move",
-                "path": "D:\\Example\\MyPet\\LabubuDarkPink\\Move.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDarkPink\\Move.gif"
             },
             {
                 "id": 9,
                 "name": "Play",
-                "path": "D:\\Example\\MyPet\\LabubuDarkPink\\Play.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDarkPink\\Play.gif"
             },
             {
                 "id": 10,
                 "name": "Sleep",
-                "path": "D:\\Example\\MyPet\\LabubuDarkPink\\Sleep.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDarkPink\\Sleep.gif"
             }
         ]
     },
     {
         "name": "LabubuDoll",
-        "pathCate": "D:\\Example\\MyPet\\LabubuDoll",
+        "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/pet/LabubuDoll.png",
         "anim": [
             {
                 "id": 1,
                 "name": "Dance1",
-                "path": "D:\\Example\\MyPet\\LabubuDoll\\Dance1.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDoll\\Dance1.gif"
             },
             {
                 "id": 2,
                 "name": "Dance2",
-                "path": "D:\\Example\\MyPet\\LabubuDoll\\Dance2.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDoll\\Dance2.gif"
             },
             {
                 "id": 3,
                 "name": "Dance3",
-                "path": "D:\\Example\\MyPet\\LabubuDoll\\Dance3.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDoll\\Dance3.gif"
             },
             {
                 "id": 4,
                 "name": "Drop_Done",
-                "path": "D:\\Example\\MyPet\\LabubuDoll\\Drop_Done.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDoll\\Drop_Done.gif"
             },
             {
                 "id": 5,
                 "name": "Drop_Start",
-                "path": "D:\\Example\\MyPet\\LabubuDoll\\Drop_Start.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDoll\\Drop_Start.gif"
             },
             {
                 "id": 6,
                 "name": "Drum",
-                "path": "D:\\Example\\MyPet\\LabubuDoll\\Drum.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDoll\\Drum.gif"
             },
             {
                 "id": 7,
                 "name": "Fly",
-                "path": "D:\\Example\\MyPet\\LabubuDoll\\Fly.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDoll\\Fly.gif"
             },
             {
                 "id": 8,
                 "name": "Move",
-                "path": "D:\\Example\\MyPet\\LabubuDoll\\Move.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDoll\\Move.gif"
             },
             {
                 "id": 9,
                 "name": "Play",
-                "path": "D:\\Example\\MyPet\\LabubuDoll\\Play.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDoll\\Play.gif"
             },
             {
                 "id": 10,
                 "name": "Sleep",
-                "path": "D:\\Example\\MyPet\\LabubuDoll\\Sleep.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDoll\\Sleep.gif"
             }
         ]
     },
     {
         "name": "LabubuGreen",
-        "pathCate": "D:\\Example\\MyPet\\LabubuGreen",
+        "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/pet/LabubuGreen.png",
         "anim": [
             {
                 "id": 1,
                 "name": "Dance1",
-                "path": "D:\\Example\\MyPet\\LabubuGreen\\Dance1.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreen\\Dance1.gif"
             },
             {
                 "id": 2,
                 "name": "Dance2",
-                "path": "D:\\Example\\MyPet\\LabubuGreen\\Dance2.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreen\\Dance2.gif"
             },
             {
                 "id": 3,
                 "name": "Dance3",
-                "path": "D:\\Example\\MyPet\\LabubuGreen\\Dance3.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreen\\Dance3.gif"
             },
             {
                 "id": 4,
                 "name": "Drop_Done",
-                "path": "D:\\Example\\MyPet\\LabubuGreen\\Drop_Done.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreen\\Drop_Done.gif"
             },
             {
                 "id": 5,
                 "name": "Drop_Start",
-                "path": "D:\\Example\\MyPet\\LabubuGreen\\Drop_Start.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreen\\Drop_Start.gif"
             },
             {
                 "id": 6,
                 "name": "Drum",
-                "path": "D:\\Example\\MyPet\\LabubuGreen\\Drum.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreen\\Drum.gif"
             },
             {
                 "id": 7,
                 "name": "Fly",
-                "path": "D:\\Example\\MyPet\\LabubuGreen\\Fly.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreen\\Fly.gif"
             },
             {
                 "id": 8,
                 "name": "Move",
-                "path": "D:\\Example\\MyPet\\LabubuGreen\\Move.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreen\\Move.gif"
             },
             {
                 "id": 9,
                 "name": "Play",
-                "path": "D:\\Example\\MyPet\\LabubuGreen\\Play.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreen\\Play.gif"
             },
             {
                 "id": 10,
                 "name": "Sleep",
-                "path": "D:\\Example\\MyPet\\LabubuGreen\\Sleep.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreen\\Sleep.gif"
             }
         ]
     },
     {
         "name": "LabubuGreenPumpkin",
-        "pathCate": "D:\\Example\\MyPet\\LabubuGreenPumpkin",
+        "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/pet/LabubuGreenPumpkin.png",
         "anim": [
             {
                 "id": 1,
                 "name": "Dance1",
-                "path": "D:\\Example\\MyPet\\LabubuGreenPumpkin\\Dance1.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Dance1.gif"
             },
             {
                 "id": 2,
                 "name": "Dance2",
-                "path": "D:\\Example\\MyPet\\LabubuGreenPumpkin\\Dance2.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Dance2.gif"
             },
             {
                 "id": 3,
                 "name": "Dance3",
-                "path": "D:\\Example\\MyPet\\LabubuGreenPumpkin\\Dance3.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Dance3.gif"
             },
             {
                 "id": 4,
                 "name": "Drop_Done",
-                "path": "D:\\Example\\MyPet\\LabubuGreenPumpkin\\Drop_Done.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Drop_Done.gif"
             },
             {
                 "id": 5,
                 "name": "Drop_Start",
-                "path": "D:\\Example\\MyPet\\LabubuGreenPumpkin\\Drop_Start.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Drop_Start.gif"
             },
             {
                 "id": 6,
                 "name": "Drum",
-                "path": "D:\\Example\\MyPet\\LabubuGreenPumpkin\\Drum.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Drum.gif"
             },
             {
                 "id": 7,
                 "name": "Fly",
-                "path": "D:\\Example\\MyPet\\LabubuGreenPumpkin\\Fly.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Fly.gif"
             },
             {
                 "id": 8,
                 "name": "Move",
-                "path": "D:\\Example\\MyPet\\LabubuGreenPumpkin\\Move.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Move.gif"
             },
             {
                 "id": 9,
                 "name": "Play",
-                "path": "D:\\Example\\MyPet\\LabubuGreenPumpkin\\Play.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Play.gif"
             },
             {
                 "id": 10,
                 "name": "Sleep",
-                "path": "D:\\Example\\MyPet\\LabubuGreenPumpkin\\Sleep.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Sleep.gif"
             }
         ]
     },
     {
         "name": "LabubuGrey",
-        "pathCate": "D:\\Example\\MyPet\\LabubuGrey",
+        "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/pet/LabubuGrey.png",
         "anim": [
             {
                 "id": 1,
                 "name": "Dance1",
-                "path": "D:\\Example\\MyPet\\LabubuGrey\\Dance1.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Dance1.gif"
             },
             {
                 "id": 2,
                 "name": "Dance2",
-                "path": "D:\\Example\\MyPet\\LabubuGrey\\Dance2.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Dance2.gif"
             },
             {
                 "id": 3,
                 "name": "Dance3",
-                "path": "D:\\Example\\MyPet\\LabubuGrey\\Dance3.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Dance3.gif"
             },
             {
                 "id": 4,
                 "name": "Drop_Done",
-                "path": "D:\\Example\\MyPet\\LabubuGrey\\Drop_Done.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Drop_Done.gif"
             },
             {
                 "id": 5,
                 "name": "Drop_Start",
-                "path": "D:\\Example\\MyPet\\LabubuGrey\\Drop_Start.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Drop_Start.gif"
             },
             {
                 "id": 6,
                 "name": "Drum",
-                "path": "D:\\Example\\MyPet\\LabubuGrey\\Drum.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Drum.gif"
             },
             {
                 "id": 7,
                 "name": "Fly",
-                "path": "D:\\Example\\MyPet\\LabubuGrey\\Fly.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Fly.gif"
             },
             {
                 "id": 8,
                 "name": "Move",
-                "path": "D:\\Example\\MyPet\\LabubuGrey\\Move.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Move.gif"
             },
             {
                 "id": 9,
                 "name": "Play",
-                "path": "D:\\Example\\MyPet\\LabubuGrey\\Play.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Play.gif"
             },
             {
                 "id": 10,
                 "name": "Sleep",
-                "path": "D:\\Example\\MyPet\\LabubuGrey\\Sleep.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Sleep.gif"
             }
         ]
     },
     {
         "name": "LabubuLightPink",
-        "pathCate": "D:\\Example\\MyPet\\LabubuLightPink",
+        "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/pet/LabubuLightPink.png",
         "anim": [
             {
                 "id": 1,
                 "name": "Dance1",
-                "path": "D:\\Example\\MyPet\\LabubuLightPink\\Dance1.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Dance1.gif"
             },
             {
                 "id": 2,
                 "name": "Dance2",
-                "path": "D:\\Example\\MyPet\\LabubuLightPink\\Dance2.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Dance2.gif"
             },
             {
                 "id": 3,
                 "name": "Dance3",
-                "path": "D:\\Example\\MyPet\\LabubuLightPink\\Dance3.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Dance3.gif"
             },
             {
                 "id": 4,
                 "name": "Drop_Done",
-                "path": "D:\\Example\\MyPet\\LabubuLightPink\\Drop_Done.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Drop_Done.gif"
             },
             {
                 "id": 5,
                 "name": "Drop_Start",
-                "path": "D:\\Example\\MyPet\\LabubuLightPink\\Drop_Start.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Drop_Start.gif"
             },
             {
                 "id": 6,
                 "name": "Drum",
-                "path": "D:\\Example\\MyPet\\LabubuLightPink\\Drum.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Drum.gif"
             },
             {
                 "id": 7,
                 "name": "Fly",
-                "path": "D:\\Example\\MyPet\\LabubuLightPink\\Fly.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Fly.gif"
             },
             {
                 "id": 8,
                 "name": "Move",
-                "path": "D:\\Example\\MyPet\\LabubuLightPink\\Move.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Move.gif"
             },
             {
                 "id": 9,
                 "name": "Play",
-                "path": "D:\\Example\\MyPet\\LabubuLightPink\\Play.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Play.gif"
             },
             {
                 "id": 10,
                 "name": "Sleep",
-                "path": "D:\\Example\\MyPet\\LabubuLightPink\\Sleep.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Sleep.gif"
             }
         ]
     },
     {
         "name": "LabubuPaleYellow",
-        "pathCate": "D:\\Example\\MyPet\\LabubuPaleYellow",
+        "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/pet/LabubuPaleYellow.png",
         "anim": [
             {
                 "id": 1,
                 "name": "Dance1",
-                "path": "D:\\Example\\MyPet\\LabubuPaleYellow\\Dance1.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Dance1.gif"
             },
             {
                 "id": 2,
                 "name": "Dance2",
-                "path": "D:\\Example\\MyPet\\LabubuPaleYellow\\Dance2.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Dance2.gif"
             },
             {
                 "id": 3,
                 "name": "Dance3",
-                "path": "D:\\Example\\MyPet\\LabubuPaleYellow\\Dance3.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Dance3.gif"
             },
             {
                 "id": 4,
                 "name": "Drop_Done",
-                "path": "D:\\Example\\MyPet\\LabubuPaleYellow\\Drop_Done.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Drop_Done.gif"
             },
             {
                 "id": 5,
                 "name": "Drop_Start",
-                "path": "D:\\Example\\MyPet\\LabubuPaleYellow\\Drop_Start.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Drop_Start.gif"
             },
             {
                 "id": 6,
                 "name": "Drum",
-                "path": "D:\\Example\\MyPet\\LabubuPaleYellow\\Drum.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Drum.gif"
             },
             {
                 "id": 7,
                 "name": "Fly",
-                "path": "D:\\Example\\MyPet\\LabubuPaleYellow\\Fly.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Fly.gif"
             },
             {
                 "id": 8,
                 "name": "Move",
-                "path": "D:\\Example\\MyPet\\LabubuPaleYellow\\Move.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Move.gif"
             },
             {
                 "id": 9,
                 "name": "Play",
-                "path": "D:\\Example\\MyPet\\LabubuPaleYellow\\Play.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Play.gif"
             },
             {
                 "id": 10,
                 "name": "Sleep",
-                "path": "D:\\Example\\MyPet\\LabubuPaleYellow\\Sleep.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Sleep.gif"
             }
         ]
     },
     {
         "name": "LabubuPinkPumpkin",
-        "pathCate": "D:\\Example\\MyPet\\LabubuPinkPumpkin",
+        "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/pet/LabubuPinkPumpkin.png",
         "anim": [
             {
                 "id": 1,
                 "name": "Dance1",
-                "path": "D:\\Example\\MyPet\\LabubuPinkPumpkin\\Dance1.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Dance1.gif"
             },
             {
                 "id": 2,
                 "name": "Dance2",
-                "path": "D:\\Example\\MyPet\\LabubuPinkPumpkin\\Dance2.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Dance2.gif"
             },
             {
                 "id": 3,
                 "name": "Dance3",
-                "path": "D:\\Example\\MyPet\\LabubuPinkPumpkin\\Dance3.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Dance3.gif"
             },
             {
                 "id": 4,
                 "name": "Drop_Done",
-                "path": "D:\\Example\\MyPet\\LabubuPinkPumpkin\\Drop_Done.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Drop_Done.gif"
             },
             {
                 "id": 5,
                 "name": "Drop_Start",
-                "path": "D:\\Example\\MyPet\\LabubuPinkPumpkin\\Drop_Start.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Drop_Start.gif"
             },
             {
                 "id": 6,
                 "name": "Drum",
-                "path": "D:\\Example\\MyPet\\LabubuPinkPumpkin\\Drum.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Drum.gif"
             },
             {
                 "id": 7,
                 "name": "Fly",
-                "path": "D:\\Example\\MyPet\\LabubuPinkPumpkin\\Fly.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Fly.gif"
             },
             {
                 "id": 8,
                 "name": "Move",
-                "path": "D:\\Example\\MyPet\\LabubuPinkPumpkin\\Move.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Move.gif"
             },
             {
                 "id": 9,
                 "name": "Play",
-                "path": "D:\\Example\\MyPet\\LabubuPinkPumpkin\\Play.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Play.gif"
             },
             {
                 "id": 10,
                 "name": "Sleep",
-                "path": "D:\\Example\\MyPet\\LabubuPinkPumpkin\\Sleep.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Sleep.gif"
             }
         ]
     },
     {
         "name": "LabubuPrettyPumpkin",
-        "pathCate": "D:\\Example\\MyPet\\LabubuPrettyPumpkin",
+        "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/pet/LabubuPrettyPumpkin.png",
         "anim": [
             {
                 "id": 1,
                 "name": "Dance1",
-                "path": "D:\\Example\\MyPet\\LabubuPrettyPumpkin\\Dance1.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Dance1.gif"
             },
             {
                 "id": 2,
                 "name": "Dance2",
-                "path": "D:\\Example\\MyPet\\LabubuPrettyPumpkin\\Dance2.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Dance2.gif"
             },
             {
                 "id": 3,
                 "name": "Dance3",
-                "path": "D:\\Example\\MyPet\\LabubuPrettyPumpkin\\Dance3.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Dance3.gif"
             },
             {
                 "id": 4,
                 "name": "Drop_Done",
-                "path": "D:\\Example\\MyPet\\LabubuPrettyPumpkin\\Drop_Done.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Drop_Done.gif"
             },
             {
                 "id": 5,
                 "name": "Drop_Start",
-                "path": "D:\\Example\\MyPet\\LabubuPrettyPumpkin\\Drop_Start.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Drop_Start.gif"
             },
             {
                 "id": 6,
                 "name": "Drum",
-                "path": "D:\\Example\\MyPet\\LabubuPrettyPumpkin\\Drum.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Drum.gif"
             },
             {
                 "id": 7,
                 "name": "Fly",
-                "path": "D:\\Example\\MyPet\\LabubuPrettyPumpkin\\Fly.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Fly.gif"
             },
             {
                 "id": 8,
                 "name": "Move",
-                "path": "D:\\Example\\MyPet\\LabubuPrettyPumpkin\\Move.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Move.gif"
             },
             {
                 "id": 9,
                 "name": "Play",
-                "path": "D:\\Example\\MyPet\\LabubuPrettyPumpkin\\Play.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Play.gif"
             },
             {
                 "id": 10,
                 "name": "Sleep",
-                "path": "D:\\Example\\MyPet\\LabubuPrettyPumpkin\\Sleep.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Sleep.gif"
             }
         ]
     },
     {
         "name": "LabubuPumpkin",
-        "pathCate": "D:\\Example\\MyPet\\LabubuPumpkin",
+        "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/pet/LabubuPumpkin.png",
         "anim": [
             {
                 "id": 1,
                 "name": "Dance1",
-                "path": "D:\\Example\\MyPet\\LabubuPumpkin\\Dance1.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkin\\Dance1.gif"
             },
             {
                 "id": 2,
                 "name": "Dance2",
-                "path": "D:\\Example\\MyPet\\LabubuPumpkin\\Dance2.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkin\\Dance2.gif"
             },
             {
                 "id": 3,
                 "name": "Dance3",
-                "path": "D:\\Example\\MyPet\\LabubuPumpkin\\Dance3.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkin\\Dance3.gif"
             },
             {
                 "id": 4,
                 "name": "Drop_Done",
-                "path": "D:\\Example\\MyPet\\LabubuPumpkin\\Drop_Done.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkin\\Drop_Done.gif"
             },
             {
                 "id": 5,
                 "name": "Drop_Start",
-                "path": "D:\\Example\\MyPet\\LabubuPumpkin\\Drop_Start.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkin\\Drop_Start.gif"
             },
             {
                 "id": 6,
                 "name": "Drum",
-                "path": "D:\\Example\\MyPet\\LabubuPumpkin\\Drum.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkin\\Drum.gif"
             },
             {
                 "id": 7,
                 "name": "Fly",
-                "path": "D:\\Example\\MyPet\\LabubuPumpkin\\Fly.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkin\\Fly.gif"
             },
             {
                 "id": 8,
                 "name": "Move",
-                "path": "D:\\Example\\MyPet\\LabubuPumpkin\\Move.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkin\\Move.gif"
             },
             {
                 "id": 9,
                 "name": "Play",
-                "path": "D:\\Example\\MyPet\\LabubuPumpkin\\Play.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkin\\Play.gif"
             },
             {
                 "id": 10,
                 "name": "Sleep",
-                "path": "D:\\Example\\MyPet\\LabubuPumpkin\\Sleep.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkin\\Sleep.gif"
             }
-        ]
+        ]	
     },
     {
         "name": "LabubuPumpkinBaby",
-        "pathCate": "D:\\Example\\MyPet\\LabubuPumpkinBaby",
+        "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/pet/LabubuPumpkinBaby.png",
         "anim": [
             {
                 "id": 1,
                 "name": "Dance1",
-                "path": "D:\\Example\\MyPet\\LabubuPumpkinBaby\\Dance1.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkinBaby\\Dance1.gif"
             },
             {
                 "id": 2,
                 "name": "Dance2",
-                "path": "D:\\Example\\MyPet\\LabubuPumpkinBaby\\Dance2.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkinBaby\\Dance2.gif"
             },
             {
                 "id": 3,
                 "name": "Dance3",
-                "path": "D:\\Example\\MyPet\\LabubuPumpkinBaby\\Dance3.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkinBaby\\Dance3.gif"
             },
             {
                 "id": 4,
                 "name": "Drop_Done",
-                "path": "D:\\Example\\MyPet\\LabubuPumpkinBaby\\Drop_Done.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkinBaby\\Drop_Done.gif"
             },
             {
                 "id": 5,
                 "name": "Drop_Start",
-                "path": "D:\\Example\\MyPet\\LabubuPumpkinBaby\\Drop_Start.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkinBaby\\Drop_Start.gif"
             },
             {
                 "id": 6,
                 "name": "Drum",
-                "path": "D:\\Example\\MyPet\\LabubuPumpkinBaby\\Drum.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkinBaby\\Drum.gif"
             },
             {
                 "id": 7,
                 "name": "Fly",
-                "path": "D:\\Example\\MyPet\\LabubuPumpkinBaby\\Fly.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkinBaby\\Fly.gif"
             },
             {
                 "id": 8,
                 "name": "Move",
-                "path": "D:\\Example\\MyPet\\LabubuPumpkinBaby\\Move.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkinBaby\\Move.gif"
             },
             {
                 "id": 9,
                 "name": "Play",
-                "path": "D:\\Example\\MyPet\\LabubuPumpkinBaby\\Play.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkinBaby\\Play.gif"
             },
             {
                 "id": 10,
                 "name": "Sleep",
-                "path": "D:\\Example\\MyPet\\LabubuPumpkinBaby\\Sleep.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkinBaby\\Sleep.gif"
             }
         ]
     },
     {
         "name": "LabubuPurple",
-        "pathCate": "D:\\Example\\MyPet\\LabubuPurple",
+        "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/pet/LabubuPurple.png",
         "anim": [
             {
                 "id": 1,
                 "name": "Dance1",
-                "path": "D:\\Example\\MyPet\\LabubuPurple\\Dance1.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPurple\\Dance1.gif"
             },
             {
                 "id": 2,
                 "name": "Dance2",
-                "path": "D:\\Example\\MyPet\\LabubuPurple\\Dance2.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPurple\\Dance2.gif"
             },
             {
                 "id": 3,
                 "name": "Dance3",
-                "path": "D:\\Example\\MyPet\\LabubuPurple\\Dance3.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPurple\\Dance3.gif"
             },
             {
                 "id": 4,
                 "name": "Drop_Done",
-                "path": "D:\\Example\\MyPet\\LabubuPurple\\Drop_Done.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPurple\\Drop_Done.gif"
             },
             {
                 "id": 5,
                 "name": "Drop_Start",
-                "path": "D:\\Example\\MyPet\\LabubuPurple\\Drop_Start.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPurple\\Drop_Start.gif"
             },
             {
                 "id": 6,
                 "name": "Drum",
-                "path": "D:\\Example\\MyPet\\LabubuPurple\\Drum.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPurple\\Drum.gif"
             },
             {
                 "id": 7,
                 "name": "Fly",
-                "path": "D:\\Example\\MyPet\\LabubuPurple\\Fly.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPurple\\Fly.gif"
             },
             {
                 "id": 8,
                 "name": "Move",
-                "path": "D:\\Example\\MyPet\\LabubuPurple\\Move.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPurple\\Move.gif"
             },
             {
                 "id": 9,
                 "name": "Play",
-                "path": "D:\\Example\\MyPet\\LabubuPurple\\Play.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPurple\\Play.gif"
             },
             {
                 "id": 10,
                 "name": "Sleep",
-                "path": "D:\\Example\\MyPet\\LabubuPurple\\Sleep.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPurple\\Sleep.gif"
             }
         ]
     },
     {
         "name": "LabubuWaikawaGrey",
-        "pathCate": "D:\\Example\\MyPet\\LabubuWaikawaGrey",
+        "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/pet/LabubuWaikawaGrey.png",
         "anim": [
             {
                 "id": 1,
                 "name": "Dance1",
-                "path": "D:\\Example\\MyPet\\LabubuWaikawaGrey\\Dance1.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Dance1.gif"
             },
             {
                 "id": 2,
                 "name": "Dance2",
-                "path": "D:\\Example\\MyPet\\LabubuWaikawaGrey\\Dance2.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Dance2.gif"
             },
             {
                 "id": 3,
                 "name": "Dance3",
-                "path": "D:\\Example\\MyPet\\LabubuWaikawaGrey\\Dance3.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Dance3.gif"
             },
             {
                 "id": 4,
                 "name": "Drop_Done",
-                "path": "D:\\Example\\MyPet\\LabubuWaikawaGrey\\Drop_Done.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Drop_Done.gif"
             },
             {
                 "id": 5,
                 "name": "Drop_Start",
-                "path": "D:\\Example\\MyPet\\LabubuWaikawaGrey\\Drop_Start.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Drop_Start.gif"
             },
             {
                 "id": 6,
                 "name": "Drum",
-                "path": "D:\\Example\\MyPet\\LabubuWaikawaGrey\\Drum.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Drum.gif"
             },
             {
                 "id": 7,
                 "name": "Fly",
-                "path": "D:\\Example\\MyPet\\LabubuWaikawaGrey\\Fly.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Fly.gif"
             },
             {
                 "id": 8,
                 "name": "Move",
-                "path": "D:\\Example\\MyPet\\LabubuWaikawaGrey\\Move.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Move.gif"
             },
             {
                 "id": 9,
                 "name": "Play",
-                "path": "D:\\Example\\MyPet\\LabubuWaikawaGrey\\Play.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Play.gif"
             },
             {
                 "id": 10,
                 "name": "Sleep",
-                "path": "D:\\Example\\MyPet\\LabubuWaikawaGrey\\Sleep.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Sleep.gif"
             }
         ]
     },
     {
         "name": "LabubuWhite",
-        "pathCate": "D:\\Example\\MyPet\\LabubuWhite",
+        "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/pet/LabubuWhite.png",
         "anim": [
             {
                 "id": 1,
                 "name": "Dance1",
-                "path": "D:\\Example\\MyPet\\LabubuWhite\\Dance1.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Dance1.gif"
             },
             {
                 "id": 2,
                 "name": "Dance2",
-                "path": "D:\\Example\\MyPet\\LabubuWhite\\Dance2.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Dance2.gif"
             },
             {
                 "id": 3,
                 "name": "Dance3",
-                "path": "D:\\Example\\MyPet\\LabubuWhite\\Dance3.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Dance3.gif"
             },
             {
                 "id": 4,
                 "name": "Drop_Done",
-                "path": "D:\\Example\\MyPet\\LabubuWhite\\Drop_Done.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Drop_Done.gif"
             },
             {
                 "id": 5,
                 "name": "Drop_Start",
-                "path": "D:\\Example\\MyPet\\LabubuWhite\\Drop_Start.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Drop_Start.gif"
             },
             {
                 "id": 6,
                 "name": "Drum",
-                "path": "D:\\Example\\MyPet\\LabubuWhite\\Drum.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Drum.gif"
             },
             {
                 "id": 7,
                 "name": "Fly",
-                "path": "D:\\Example\\MyPet\\LabubuWhite\\Fly.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Fly.gif"
             },
             {
                 "id": 8,
                 "name": "Move",
-                "path": "D:\\Example\\MyPet\\LabubuWhite\\Move.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Move.gif"
             },
             {
                 "id": 9,
                 "name": "Play",
-                "path": "D:\\Example\\MyPet\\LabubuWhite\\Play.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Play.gif"
             },
             {
                 "id": 10,
                 "name": "Sleep",
-                "path": "D:\\Example\\MyPet\\LabubuWhite\\Sleep.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Sleep.gif"
             }
         ]
     },
     {
         "name": "LabubuYellow",
-        "pathCate": "D:\\Example\\MyPet\\LabubuYellow",
+        "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/pet/labubu_yellow.png",
         "anim": [
             {
                 "id": 1,
                 "name": "Dance1",
-                "path": "D:\\Example\\MyPet\\LabubuYellow\\Dance1.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Dance1.gif"
             },
             {
                 "id": 2,
                 "name": "Dance2",
-                "path": "D:\\Example\\MyPet\\LabubuYellow\\Dance2.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Dance2.gif"
             },
             {
                 "id": 3,
                 "name": "Dance3",
-                "path": "D:\\Example\\MyPet\\LabubuYellow\\Dance3.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Dance3.gif"
             },
             {
                 "id": 4,
                 "name": "Drop_Done",
-                "path": "D:\\Example\\MyPet\\LabubuYellow\\Drop_Done.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Drop_Done.gif"
             },
             {
                 "id": 5,
                 "name": "Drop_Start",
-                "path": "D:\\Example\\MyPet\\LabubuYellow\\Drop_Start.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Drop_Start.gif"
             },
             {
                 "id": 6,
                 "name": "Drum",
-                "path": "D:\\Example\\MyPet\\LabubuYellow\\Drum.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Drum.gif"
             },
             {
                 "id": 7,
                 "name": "Fly",
-                "path": "D:\\Example\\MyPet\\LabubuYellow\\Fly.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Fly.gif"
             },
             {
                 "id": 8,
                 "name": "Move",
-                "path": "D:\\Example\\MyPet\\LabubuYellow\\Move.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Move.gif"
             },
             {
                 "id": 9,
                 "name": "Play",
-                "path": "D:\\Example\\MyPet\\LabubuYellow\\Play.gif"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Play.gif"
             },
             {
                 "id": 10,
                 "name": "Sleep",
-                "path": "D:\\Example\\MyPet\\LabubuYellow\\Sleep.gif"
-            }
-        ]
-    },
-    {
-        "name": "pet",
-        "pathCate": "D:\\Example\\MyPet\\pet",
-        "anim": [
-            {
-                "id": 1,
-                "name": "LabubuBrown",
-                "path": "D:\\Example\\MyPet\\pet\\LabubuBrown.png"
-            },
-            {
-                "id": 2,
-                "name": "LabubuDarkPink",
-                "path": "D:\\Example\\MyPet\\pet\\LabubuDarkPink.png"
-            },
-            {
-                "id": 3,
-                "name": "LabubuDoll",
-                "path": "D:\\Example\\MyPet\\pet\\LabubuDoll.png"
-            },
-            {
-                "id": 4,
-                "name": "LabubuGreen",
-                "path": "D:\\Example\\MyPet\\pet\\LabubuGreen.png"
-            },
-            {
-                "id": 5,
-                "name": "LabubuGreenPumpkin",
-                "path": "D:\\Example\\MyPet\\pet\\LabubuGreenPumpkin.png"
-            },
-            {
-                "id": 6,
-                "name": "LabubuGrey",
-                "path": "D:\\Example\\MyPet\\pet\\LabubuGrey.png"
-            },
-            {
-                "id": 7,
-                "name": "LabubuLightPink",
-                "path": "D:\\Example\\MyPet\\pet\\LabubuLightPink.png"
-            },
-            {
-                "id": 8,
-                "name": "LabubuPaleYellow",
-                "path": "D:\\Example\\MyPet\\pet\\LabubuPaleYellow.png"
-            },
-            {
-                "id": 9,
-                "name": "LabubuPinkPumpkin",
-                "path": "D:\\Example\\MyPet\\pet\\LabubuPinkPumpkin.png"
-            },
-            {
-                "id": 10,
-                "name": "LabubuPrettyPumpkin",
-                "path": "D:\\Example\\MyPet\\pet\\LabubuPrettyPumpkin.png"
-            },
-            {
-                "id": 11,
-                "name": "LabubuPumpkin",
-                "path": "D:\\Example\\MyPet\\pet\\LabubuPumpkin.png"
-            },
-            {
-                "id": 12,
-                "name": "LabubuPumpkinBaby",
-                "path": "D:\\Example\\MyPet\\pet\\LabubuPumpkinBaby.png"
-            },
-            {
-                "id": 13,
-                "name": "LabubuPurple",
-                "path": "D:\\Example\\MyPet\\pet\\LabubuPurple.png"
-            },
-            {
-                "id": 14,
-                "name": "LabubuWaikawaGrey",
-                "path": "D:\\Example\\MyPet\\pet\\LabubuWaikawaGrey.png"
-            },
-            {
-                "id": 15,
-                "name": "LabubuWhite",
-                "path": "D:\\Example\\MyPet\\pet\\LabubuWhite.png"
-            },
-            {
-                "id": 16,
-                "name": "labubu_yellow",
-                "path": "D:\\Example\\MyPet\\pet\\labubu_yellow.png"
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Sleep.gif"
             }
         ]
     }
