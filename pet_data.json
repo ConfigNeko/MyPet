@@ -1,0 +1,984 @@
+[
+    {
+        "name": "LabubuBrown",
+        "pathCate": "D:\\Example\\MyPet\\LabubuBrown",
+        "anim": [
+            {
+                "id": 1,
+                "name": "Dance1",
+                "path": "D:\\Example\\MyPet\\LabubuBrown\\Dance1.gif"
+            },
+            {
+                "id": 2,
+                "name": "Dance2",
+                "path": "D:\\Example\\MyPet\\LabubuBrown\\Dance2.gif"
+            },
+            {
+                "id": 3,
+                "name": "Dance3",
+                "path": "D:\\Example\\MyPet\\LabubuBrown\\Dance3.gif"
+            },
+            {
+                "id": 4,
+                "name": "Drop_Done",
+                "path": "D:\\Example\\MyPet\\LabubuBrown\\Drop_Done.gif"
+            },
+            {
+                "id": 5,
+                "name": "Drop_Start",
+                "path": "D:\\Example\\MyPet\\LabubuBrown\\Drop_Start.gif"
+            },
+            {
+                "id": 6,
+                "name": "Drum",
+                "path": "D:\\Example\\MyPet\\LabubuBrown\\Drum.gif"
+            },
+            {
+                "id": 7,
+                "name": "Fly",
+                "path": "D:\\Example\\MyPet\\LabubuBrown\\Fly.gif"
+            },
+            {
+                "id": 8,
+                "name": "Move",
+                "path": "D:\\Example\\MyPet\\LabubuBrown\\Move.gif"
+            },
+            {
+                "id": 9,
+                "name": "Play",
+                "path": "D:\\Example\\MyPet\\LabubuBrown\\Play.gif"
+            },
+            {
+                "id": 10,
+                "name": "Sleep",
+                "path": "D:\\Example\\MyPet\\LabubuBrown\\Sleep.gif"
+            }
+        ]
+    },
+    {
+        "name": "LabubuDarkPink",
+        "pathCate": "D:\\Example\\MyPet\\LabubuDarkPink",
+        "anim": [
+            {
+                "id": 1,
+                "name": "Dance1",
+                "path": "D:\\Example\\MyPet\\LabubuDarkPink\\Dance1.gif"
+            },
+            {
+                "id": 2,
+                "name": "Dance2",
+                "path": "D:\\Example\\MyPet\\LabubuDarkPink\\Dance2.gif"
+            },
+            {
+                "id": 3,
+                "name": "Dance3",
+                "path": "D:\\Example\\MyPet\\LabubuDarkPink\\Dance3.gif"
+            },
+            {
+                "id": 4,
+                "name": "Drop_Done",
+                "path": "D:\\Example\\MyPet\\LabubuDarkPink\\Drop_Done.gif"
+            },
+            {
+                "id": 5,
+                "name": "Drop_Start",
+                "path": "D:\\Example\\MyPet\\LabubuDarkPink\\Drop_Start.gif"
+            },
+            {
+                "id": 6,
+                "name": "Drum",
+                "path": "D:\\Example\\MyPet\\LabubuDarkPink\\Drum.gif"
+            },
+            {
+                "id": 7,
+                "name": "Fly",
+                "path": "D:\\Example\\MyPet\\LabubuDarkPink\\Fly.gif"
+            },
+            {
+                "id": 8,
+                "name": "Move",
+                "path": "D:\\Example\\MyPet\\LabubuDarkPink\\Move.gif"
+            },
+            {
+                "id": 9,
+                "name": "Play",
+                "path": "D:\\Example\\MyPet\\LabubuDarkPink\\Play.gif"
+            },
+            {
+                "id": 10,
+                "name": "Sleep",
+                "path": "D:\\Example\\MyPet\\LabubuDarkPink\\Sleep.gif"
+            }
+        ]
+    },
+    {
+        "name": "LabubuDoll",
+        "pathCate": "D:\\Example\\MyPet\\LabubuDoll",
+        "anim": [
+            {
+                "id": 1,
+                "name": "Dance1",
+                "path": "D:\\Example\\MyPet\\LabubuDoll\\Dance1.gif"
+            },
+            {
+                "id": 2,
+                "name": "Dance2",
+                "path": "D:\\Example\\MyPet\\LabubuDoll\\Dance2.gif"
+            },
+            {
+                "id": 3,
+                "name": "Dance3",
+                "path": "D:\\Example\\MyPet\\LabubuDoll\\Dance3.gif"
+            },
+            {
+                "id": 4,
+                "name": "Drop_Done",
+                "path": "D:\\Example\\MyPet\\LabubuDoll\\Drop_Done.gif"
+            },
+            {
+                "id": 5,
+                "name": "Drop_Start",
+                "path": "D:\\Example\\MyPet\\LabubuDoll\\Drop_Start.gif"
+            },
+            {
+                "id": 6,
+                "name": "Drum",
+                "path": "D:\\Example\\MyPet\\LabubuDoll\\Drum.gif"
+            },
+            {
+                "id": 7,
+                "name": "Fly",
+                "path": "D:\\Example\\MyPet\\LabubuDoll\\Fly.gif"
+            },
+            {
+                "id": 8,
+                "name": "Move",
+                "path": "D:\\Example\\MyPet\\LabubuDoll\\Move.gif"
+            },
+            {
+                "id": 9,
+                "name": "Play",
+                "path": "D:\\Example\\MyPet\\LabubuDoll\\Play.gif"
+            },
+            {
+                "id": 10,
+                "name": "Sleep",
+                "path": "D:\\Example\\MyPet\\LabubuDoll\\Sleep.gif"
+            }
+        ]
+    },
+    {
+        "name": "LabubuGreen",
+        "pathCate": "D:\\Example\\MyPet\\LabubuGreen",
+        "anim": [
+            {
+                "id": 1,
+                "name": "Dance1",
+                "path": "D:\\Example\\MyPet\\LabubuGreen\\Dance1.gif"
+            },
+            {
+                "id": 2,
+                "name": "Dance2",
+                "path": "D:\\Example\\MyPet\\LabubuGreen\\Dance2.gif"
+            },
+            {
+                "id": 3,
+                "name": "Dance3",
+                "path": "D:\\Example\\MyPet\\LabubuGreen\\Dance3.gif"
+            },
+            {
+                "id": 4,
+                "name": "Drop_Done",
+                "path": "D:\\Example\\MyPet\\LabubuGreen\\Drop_Done.gif"
+            },
+            {
+                "id": 5,
+                "name": "Drop_Start",
+                "path": "D:\\Example\\MyPet\\LabubuGreen\\Drop_Start.gif"
+            },
+            {
+                "id": 6,
+                "name": "Drum",
+                "path": "D:\\Example\\MyPet\\LabubuGreen\\Drum.gif"
+            },
+            {
+                "id": 7,
+                "name": "Fly",
+                "path": "D:\\Example\\MyPet\\LabubuGreen\\Fly.gif"
+            },
+            {
+                "id": 8,
+                "name": "Move",
+                "path": "D:\\Example\\MyPet\\LabubuGreen\\Move.gif"
+            },
+            {
+                "id": 9,
+                "name": "Play",
+                "path": "D:\\Example\\MyPet\\LabubuGreen\\Play.gif"
+            },
+            {
+                "id": 10,
+                "name": "Sleep",
+                "path": "D:\\Example\\MyPet\\LabubuGreen\\Sleep.gif"
+            }
+        ]
+    },
+    {
+        "name": "LabubuGreenPumpkin",
+        "pathCate": "D:\\Example\\MyPet\\LabubuGreenPumpkin",
+        "anim": [
+            {
+                "id": 1,
+                "name": "Dance1",
+                "path": "D:\\Example\\MyPet\\LabubuGreenPumpkin\\Dance1.gif"
+            },
+            {
+                "id": 2,
+                "name": "Dance2",
+                "path": "D:\\Example\\MyPet\\LabubuGreenPumpkin\\Dance2.gif"
+            },
+            {
+                "id": 3,
+                "name": "Dance3",
+                "path": "D:\\Example\\MyPet\\LabubuGreenPumpkin\\Dance3.gif"
+            },
+            {
+                "id": 4,
+                "name": "Drop_Done",
+                "path": "D:\\Example\\MyPet\\LabubuGreenPumpkin\\Drop_Done.gif"
+            },
+            {
+                "id": 5,
+                "name": "Drop_Start",
+                "path": "D:\\Example\\MyPet\\LabubuGreenPumpkin\\Drop_Start.gif"
+            },
+            {
+                "id": 6,
+                "name": "Drum",
+                "path": "D:\\Example\\MyPet\\LabubuGreenPumpkin\\Drum.gif"
+            },
+            {
+                "id": 7,
+                "name": "Fly",
+                "path": "D:\\Example\\MyPet\\LabubuGreenPumpkin\\Fly.gif"
+            },
+            {
+                "id": 8,
+                "name": "Move",
+                "path": "D:\\Example\\MyPet\\LabubuGreenPumpkin\\Move.gif"
+            },
+            {
+                "id": 9,
+                "name": "Play",
+                "path": "D:\\Example\\MyPet\\LabubuGreenPumpkin\\Play.gif"
+            },
+            {
+                "id": 10,
+                "name": "Sleep",
+                "path": "D:\\Example\\MyPet\\LabubuGreenPumpkin\\Sleep.gif"
+            }
+        ]
+    },
+    {
+        "name": "LabubuGrey",
+        "pathCate": "D:\\Example\\MyPet\\LabubuGrey",
+        "anim": [
+            {
+                "id": 1,
+                "name": "Dance1",
+                "path": "D:\\Example\\MyPet\\LabubuGrey\\Dance1.gif"
+            },
+            {
+                "id": 2,
+                "name": "Dance2",
+                "path": "D:\\Example\\MyPet\\LabubuGrey\\Dance2.gif"
+            },
+            {
+                "id": 3,
+                "name": "Dance3",
+                "path": "D:\\Example\\MyPet\\LabubuGrey\\Dance3.gif"
+            },
+            {
+                "id": 4,
+                "name": "Drop_Done",
+                "path": "D:\\Example\\MyPet\\LabubuGrey\\Drop_Done.gif"
+            },
+            {
+                "id": 5,
+                "name": "Drop_Start",
+                "path": "D:\\Example\\MyPet\\LabubuGrey\\Drop_Start.gif"
+            },
+            {
+                "id": 6,
+                "name": "Drum",
+                "path": "D:\\Example\\MyPet\\LabubuGrey\\Drum.gif"
+            },
+            {
+                "id": 7,
+                "name": "Fly",
+                "path": "D:\\Example\\MyPet\\LabubuGrey\\Fly.gif"
+            },
+            {
+                "id": 8,
+                "name": "Move",
+                "path": "D:\\Example\\MyPet\\LabubuGrey\\Move.gif"
+            },
+            {
+                "id": 9,
+                "name": "Play",
+                "path": "D:\\Example\\MyPet\\LabubuGrey\\Play.gif"
+            },
+            {
+                "id": 10,
+                "name": "Sleep",
+                "path": "D:\\Example\\MyPet\\LabubuGrey\\Sleep.gif"
+            }
+        ]
+    },
+    {
+        "name": "LabubuLightPink",
+        "pathCate": "D:\\Example\\MyPet\\LabubuLightPink",
+        "anim": [
+            {
+                "id": 1,
+                "name": "Dance1",
+                "path": "D:\\Example\\MyPet\\LabubuLightPink\\Dance1.gif"
+            },
+            {
+                "id": 2,
+                "name": "Dance2",
+                "path": "D:\\Example\\MyPet\\LabubuLightPink\\Dance2.gif"
+            },
+            {
+                "id": 3,
+                "name": "Dance3",
+                "path": "D:\\Example\\MyPet\\LabubuLightPink\\Dance3.gif"
+            },
+            {
+                "id": 4,
+                "name": "Drop_Done",
+                "path": "D:\\Example\\MyPet\\LabubuLightPink\\Drop_Done.gif"
+            },
+            {
+                "id": 5,
+                "name": "Drop_Start",
+                "path": "D:\\Example\\MyPet\\LabubuLightPink\\Drop_Start.gif"
+            },
+            {
+                "id": 6,
+                "name": "Drum",
+                "path": "D:\\Example\\MyPet\\LabubuLightPink\\Drum.gif"
+            },
+            {
+                "id": 7,
+                "name": "Fly",
+                "path": "D:\\Example\\MyPet\\LabubuLightPink\\Fly.gif"
+            },
+            {
+                "id": 8,
+                "name": "Move",
+                "path": "D:\\Example\\MyPet\\LabubuLightPink\\Move.gif"
+            },
+            {
+                "id": 9,
+                "name": "Play",
+                "path": "D:\\Example\\MyPet\\LabubuLightPink\\Play.gif"
+            },
+            {
+                "id": 10,
+                "name": "Sleep",
+                "path": "D:\\Example\\MyPet\\LabubuLightPink\\Sleep.gif"
+            }
+        ]
+    },
+    {
+        "name": "LabubuPaleYellow",
+        "pathCate": "D:\\Example\\MyPet\\LabubuPaleYellow",
+        "anim": [
+            {
+                "id": 1,
+                "name": "Dance1",
+                "path": "D:\\Example\\MyPet\\LabubuPaleYellow\\Dance1.gif"
+            },
+            {
+                "id": 2,
+                "name": "Dance2",
+                "path": "D:\\Example\\MyPet\\LabubuPaleYellow\\Dance2.gif"
+            },
+            {
+                "id": 3,
+                "name": "Dance3",
+                "path": "D:\\Example\\MyPet\\LabubuPaleYellow\\Dance3.gif"
+            },
+            {
+                "id": 4,
+                "name": "Drop_Done",
+                "path": "D:\\Example\\MyPet\\LabubuPaleYellow\\Drop_Done.gif"
+            },
+            {
+                "id": 5,
+                "name": "Drop_Start",
+                "path": "D:\\Example\\MyPet\\LabubuPaleYellow\\Drop_Start.gif"
+            },
+            {
+                "id": 6,
+                "name": "Drum",
+                "path": "D:\\Example\\MyPet\\LabubuPaleYellow\\Drum.gif"
+            },
+            {
+                "id": 7,
+                "name": "Fly",
+                "path": "D:\\Example\\MyPet\\LabubuPaleYellow\\Fly.gif"
+            },
+            {
+                "id": 8,
+                "name": "Move",
+                "path": "D:\\Example\\MyPet\\LabubuPaleYellow\\Move.gif"
+            },
+            {
+                "id": 9,
+                "name": "Play",
+                "path": "D:\\Example\\MyPet\\LabubuPaleYellow\\Play.gif"
+            },
+            {
+                "id": 10,
+                "name": "Sleep",
+                "path": "D:\\Example\\MyPet\\LabubuPaleYellow\\Sleep.gif"
+            }
+        ]
+    },
+    {
+        "name": "LabubuPinkPumpkin",
+        "pathCate": "D:\\Example\\MyPet\\LabubuPinkPumpkin",
+        "anim": [
+            {
+                "id": 1,
+                "name": "Dance1",
+                "path": "D:\\Example\\MyPet\\LabubuPinkPumpkin\\Dance1.gif"
+            },
+            {
+                "id": 2,
+                "name": "Dance2",
+                "path": "D:\\Example\\MyPet\\LabubuPinkPumpkin\\Dance2.gif"
+            },
+            {
+                "id": 3,
+                "name": "Dance3",
+                "path": "D:\\Example\\MyPet\\LabubuPinkPumpkin\\Dance3.gif"
+            },
+            {
+                "id": 4,
+                "name": "Drop_Done",
+                "path": "D:\\Example\\MyPet\\LabubuPinkPumpkin\\Drop_Done.gif"
+            },
+            {
+                "id": 5,
+                "name": "Drop_Start",
+                "path": "D:\\Example\\MyPet\\LabubuPinkPumpkin\\Drop_Start.gif"
+            },
+            {
+                "id": 6,
+                "name": "Drum",
+                "path": "D:\\Example\\MyPet\\LabubuPinkPumpkin\\Drum.gif"
+            },
+            {
+                "id": 7,
+                "name": "Fly",
+                "path": "D:\\Example\\MyPet\\LabubuPinkPumpkin\\Fly.gif"
+            },
+            {
+                "id": 8,
+                "name": "Move",
+                "path": "D:\\Example\\MyPet\\LabubuPinkPumpkin\\Move.gif"
+            },
+            {
+                "id": 9,
+                "name": "Play",
+                "path": "D:\\Example\\MyPet\\LabubuPinkPumpkin\\Play.gif"
+            },
+            {
+                "id": 10,
+                "name": "Sleep",
+                "path": "D:\\Example\\MyPet\\LabubuPinkPumpkin\\Sleep.gif"
+            }
+        ]
+    },
+    {
+        "name": "LabubuPrettyPumpkin",
+        "pathCate": "D:\\Example\\MyPet\\LabubuPrettyPumpkin",
+        "anim": [
+            {
+                "id": 1,
+                "name": "Dance1",
+                "path": "D:\\Example\\MyPet\\LabubuPrettyPumpkin\\Dance1.gif"
+            },
+            {
+                "id": 2,
+                "name": "Dance2",
+                "path": "D:\\Example\\MyPet\\LabubuPrettyPumpkin\\Dance2.gif"
+            },
+            {
+                "id": 3,
+                "name": "Dance3",
+                "path": "D:\\Example\\MyPet\\LabubuPrettyPumpkin\\Dance3.gif"
+            },
+            {
+                "id": 4,
+                "name": "Drop_Done",
+                "path": "D:\\Example\\MyPet\\LabubuPrettyPumpkin\\Drop_Done.gif"
+            },
+            {
+                "id": 5,
+                "name": "Drop_Start",
+                "path": "D:\\Example\\MyPet\\LabubuPrettyPumpkin\\Drop_Start.gif"
+            },
+            {
+                "id": 6,
+                "name": "Drum",
+                "path": "D:\\Example\\MyPet\\LabubuPrettyPumpkin\\Drum.gif"
+            },
+            {
+                "id": 7,
+                "name": "Fly",
+                "path": "D:\\Example\\MyPet\\LabubuPrettyPumpkin\\Fly.gif"
+            },
+            {
+                "id": 8,
+                "name": "Move",
+                "path": "D:\\Example\\MyPet\\LabubuPrettyPumpkin\\Move.gif"
+            },
+            {
+                "id": 9,
+                "name": "Play",
+                "path": "D:\\Example\\MyPet\\LabubuPrettyPumpkin\\Play.gif"
+            },
+            {
+                "id": 10,
+                "name": "Sleep",
+                "path": "D:\\Example\\MyPet\\LabubuPrettyPumpkin\\Sleep.gif"
+            }
+        ]
+    },
+    {
+        "name": "LabubuPumpkin",
+        "pathCate": "D:\\Example\\MyPet\\LabubuPumpkin",
+        "anim": [
+            {
+                "id": 1,
+                "name": "Dance1",
+                "path": "D:\\Example\\MyPet\\LabubuPumpkin\\Dance1.gif"
+            },
+            {
+                "id": 2,
+                "name": "Dance2",
+                "path": "D:\\Example\\MyPet\\LabubuPumpkin\\Dance2.gif"
+            },
+            {
+                "id": 3,
+                "name": "Dance3",
+                "path": "D:\\Example\\MyPet\\LabubuPumpkin\\Dance3.gif"
+            },
+            {
+                "id": 4,
+                "name": "Drop_Done",
+                "path": "D:\\Example\\MyPet\\LabubuPumpkin\\Drop_Done.gif"
+            },
+            {
+                "id": 5,
+                "name": "Drop_Start",
+                "path": "D:\\Example\\MyPet\\LabubuPumpkin\\Drop_Start.gif"
+            },
+            {
+                "id": 6,
+                "name": "Drum",
+                "path": "D:\\Example\\MyPet\\LabubuPumpkin\\Drum.gif"
+            },
+            {
+                "id": 7,
+                "name": "Fly",
+                "path": "D:\\Example\\MyPet\\LabubuPumpkin\\Fly.gif"
+            },
+            {
+                "id": 8,
+                "name": "Move",
+                "path": "D:\\Example\\MyPet\\LabubuPumpkin\\Move.gif"
+            },
+            {
+                "id": 9,
+                "name": "Play",
+                "path": "D:\\Example\\MyPet\\LabubuPumpkin\\Play.gif"
+            },
+            {
+                "id": 10,
+                "name": "Sleep",
+                "path": "D:\\Example\\MyPet\\LabubuPumpkin\\Sleep.gif"
+            }
+        ]
+    },
+    {
+        "name": "LabubuPumpkinBaby",
+        "pathCate": "D:\\Example\\MyPet\\LabubuPumpkinBaby",
+        "anim": [
+            {
+                "id": 1,
+                "name": "Dance1",
+                "path": "D:\\Example\\MyPet\\LabubuPumpkinBaby\\Dance1.gif"
+            },
+            {
+                "id": 2,
+                "name": "Dance2",
+                "path": "D:\\Example\\MyPet\\LabubuPumpkinBaby\\Dance2.gif"
+            },
+            {
+                "id": 3,
+                "name": "Dance3",
+                "path": "D:\\Example\\MyPet\\LabubuPumpkinBaby\\Dance3.gif"
+            },
+            {
+                "id": 4,
+                "name": "Drop_Done",
+                "path": "D:\\Example\\MyPet\\LabubuPumpkinBaby\\Drop_Done.gif"
+            },
+            {
+                "id": 5,
+                "name": "Drop_Start",
+                "path": "D:\\Example\\MyPet\\LabubuPumpkinBaby\\Drop_Start.gif"
+            },
+            {
+                "id": 6,
+                "name": "Drum",
+                "path": "D:\\Example\\MyPet\\LabubuPumpkinBaby\\Drum.gif"
+            },
+            {
+                "id": 7,
+                "name": "Fly",
+                "path": "D:\\Example\\MyPet\\LabubuPumpkinBaby\\Fly.gif"
+            },
+            {
+                "id": 8,
+                "name": "Move",
+                "path": "D:\\Example\\MyPet\\LabubuPumpkinBaby\\Move.gif"
+            },
+            {
+                "id": 9,
+                "name": "Play",
+                "path": "D:\\Example\\MyPet\\LabubuPumpkinBaby\\Play.gif"
+            },
+            {
+                "id": 10,
+                "name": "Sleep",
+                "path": "D:\\Example\\MyPet\\LabubuPumpkinBaby\\Sleep.gif"
+            }
+        ]
+    },
+    {
+        "name": "LabubuPurple",
+        "pathCate": "D:\\Example\\MyPet\\LabubuPurple",
+        "anim": [
+            {
+                "id": 1,
+                "name": "Dance1",
+                "path": "D:\\Example\\MyPet\\LabubuPurple\\Dance1.gif"
+            },
+            {
+                "id": 2,
+                "name": "Dance2",
+                "path": "D:\\Example\\MyPet\\LabubuPurple\\Dance2.gif"
+            },
+            {
+                "id": 3,
+                "name": "Dance3",
+                "path": "D:\\Example\\MyPet\\LabubuPurple\\Dance3.gif"
+            },
+            {
+                "id": 4,
+                "name": "Drop_Done",
+                "path": "D:\\Example\\MyPet\\LabubuPurple\\Drop_Done.gif"
+            },
+            {
+                "id": 5,
+                "name": "Drop_Start",
+                "path": "D:\\Example\\MyPet\\LabubuPurple\\Drop_Start.gif"
+            },
+            {
+                "id": 6,
+                "name": "Drum",
+                "path": "D:\\Example\\MyPet\\LabubuPurple\\Drum.gif"
+            },
+            {
+                "id": 7,
+                "name": "Fly",
+                "path": "D:\\Example\\MyPet\\LabubuPurple\\Fly.gif"
+            },
+            {
+                "id": 8,
+                "name": "Move",
+                "path": "D:\\Example\\MyPet\\LabubuPurple\\Move.gif"
+            },
+            {
+                "id": 9,
+                "name": "Play",
+                "path": "D:\\Example\\MyPet\\LabubuPurple\\Play.gif"
+            },
+            {
+                "id": 10,
+                "name": "Sleep",
+                "path": "D:\\Example\\MyPet\\LabubuPurple\\Sleep.gif"
+            }
+        ]
+    },
+    {
+        "name": "LabubuWaikawaGrey",
+        "pathCate": "D:\\Example\\MyPet\\LabubuWaikawaGrey",
+        "anim": [
+            {
+                "id": 1,
+                "name": "Dance1",
+                "path": "D:\\Example\\MyPet\\LabubuWaikawaGrey\\Dance1.gif"
+            },
+            {
+                "id": 2,
+                "name": "Dance2",
+                "path": "D:\\Example\\MyPet\\LabubuWaikawaGrey\\Dance2.gif"
+            },
+            {
+                "id": 3,
+                "name": "Dance3",
+                "path": "D:\\Example\\MyPet\\LabubuWaikawaGrey\\Dance3.gif"
+            },
+            {
+                "id": 4,
+                "name": "Drop_Done",
+                "path": "D:\\Example\\MyPet\\LabubuWaikawaGrey\\Drop_Done.gif"
+            },
+            {
+                "id": 5,
+                "name": "Drop_Start",
+                "path": "D:\\Example\\MyPet\\LabubuWaikawaGrey\\Drop_Start.gif"
+            },
+            {
+                "id": 6,
+                "name": "Drum",
+                "path": "D:\\Example\\MyPet\\LabubuWaikawaGrey\\Drum.gif"
+            },
+            {
+                "id": 7,
+                "name": "Fly",
+                "path": "D:\\Example\\MyPet\\LabubuWaikawaGrey\\Fly.gif"
+            },
+            {
+                "id": 8,
+                "name": "Move",
+                "path": "D:\\Example\\MyPet\\LabubuWaikawaGrey\\Move.gif"
+            },
+            {
+                "id": 9,
+                "name": "Play",
+                "path": "D:\\Example\\MyPet\\LabubuWaikawaGrey\\Play.gif"
+            },
+            {
+                "id": 10,
+                "name": "Sleep",
+                "path": "D:\\Example\\MyPet\\LabubuWaikawaGrey\\Sleep.gif"
+            }
+        ]
+    },
+    {
+        "name": "LabubuWhite",
+        "pathCate": "D:\\Example\\MyPet\\LabubuWhite",
+        "anim": [
+            {
+                "id": 1,
+                "name": "Dance1",
+                "path": "D:\\Example\\MyPet\\LabubuWhite\\Dance1.gif"
+            },
+            {
+                "id": 2,
+                "name": "Dance2",
+                "path": "D:\\Example\\MyPet\\LabubuWhite\\Dance2.gif"
+            },
+            {
+                "id": 3,
+                "name": "Dance3",
+                "path": "D:\\Example\\MyPet\\LabubuWhite\\Dance3.gif"
+            },
+            {
+                "id": 4,
+                "name": "Drop_Done",
+                "path": "D:\\Example\\MyPet\\LabubuWhite\\Drop_Done.gif"
+            },
+            {
+                "id": 5,
+                "name": "Drop_Start",
+                "path": "D:\\Example\\MyPet\\LabubuWhite\\Drop_Start.gif"
+            },
+            {
+                "id": 6,
+                "name": "Drum",
+                "path": "D:\\Example\\MyPet\\LabubuWhite\\Drum.gif"
+            },
+            {
+                "id": 7,
+                "name": "Fly",
+                "path": "D:\\Example\\MyPet\\LabubuWhite\\Fly.gif"
+            },
+            {
+                "id": 8,
+                "name": "Move",
+                "path": "D:\\Example\\MyPet\\LabubuWhite\\Move.gif"
+            },
+            {
+                "id": 9,
+                "name": "Play",
+                "path": "D:\\Example\\MyPet\\LabubuWhite\\Play.gif"
+            },
+            {
+                "id": 10,
+                "name": "Sleep",
+                "path": "D:\\Example\\MyPet\\LabubuWhite\\Sleep.gif"
+            }
+        ]
+    },
+    {
+        "name": "LabubuYellow",
+        "pathCate": "D:\\Example\\MyPet\\LabubuYellow",
+        "anim": [
+            {
+                "id": 1,
+                "name": "Dance1",
+                "path": "D:\\Example\\MyPet\\LabubuYellow\\Dance1.gif"
+            },
+            {
+                "id": 2,
+                "name": "Dance2",
+                "path": "D:\\Example\\MyPet\\LabubuYellow\\Dance2.gif"
+            },
+            {
+                "id": 3,
+                "name": "Dance3",
+                "path": "D:\\Example\\MyPet\\LabubuYellow\\Dance3.gif"
+            },
+            {
+                "id": 4,
+                "name": "Drop_Done",
+                "path": "D:\\Example\\MyPet\\LabubuYellow\\Drop_Done.gif"
+            },
+            {
+                "id": 5,
+                "name": "Drop_Start",
+                "path": "D:\\Example\\MyPet\\LabubuYellow\\Drop_Start.gif"
+            },
+            {
+                "id": 6,
+                "name": "Drum",
+                "path": "D:\\Example\\MyPet\\LabubuYellow\\Drum.gif"
+            },
+            {
+                "id": 7,
+                "name": "Fly",
+                "path": "D:\\Example\\MyPet\\LabubuYellow\\Fly.gif"
+            },
+            {
+                "id": 8,
+                "name": "Move",
+                "path": "D:\\Example\\MyPet\\LabubuYellow\\Move.gif"
+            },
+            {
+                "id": 9,
+                "name": "Play",
+                "path": "D:\\Example\\MyPet\\LabubuYellow\\Play.gif"
+            },
+            {
+                "id": 10,
+                "name": "Sleep",
+                "path": "D:\\Example\\MyPet\\LabubuYellow\\Sleep.gif"
+            }
+        ]
+    },
+    {
+        "name": "pet",
+        "pathCate": "D:\\Example\\MyPet\\pet",
+        "anim": [
+            {
+                "id": 1,
+                "name": "LabubuBrown",
+                "path": "D:\\Example\\MyPet\\pet\\LabubuBrown.png"
+            },
+            {
+                "id": 2,
+                "name": "LabubuDarkPink",
+                "path": "D:\\Example\\MyPet\\pet\\LabubuDarkPink.png"
+            },
+            {
+                "id": 3,
+                "name": "LabubuDoll",
+                "path": "D:\\Example\\MyPet\\pet\\LabubuDoll.png"
+            },
+            {
+                "id": 4,
+                "name": "LabubuGreen",
+                "path": "D:\\Example\\MyPet\\pet\\LabubuGreen.png"
+            },
+            {
+                "id": 5,
+                "name": "LabubuGreenPumpkin",
+                "path": "D:\\Example\\MyPet\\pet\\LabubuGreenPumpkin.png"
+            },
+            {
+                "id": 6,
+                "name": "LabubuGrey",
+                "path": "D:\\Example\\MyPet\\pet\\LabubuGrey.png"
+            },
+            {
+                "id": 7,
+                "name": "LabubuLightPink",
+                "path": "D:\\Example\\MyPet\\pet\\LabubuLightPink.png"
+            },
+            {
+                "id": 8,
+                "name": "LabubuPaleYellow",
+                "path": "D:\\Example\\MyPet\\pet\\LabubuPaleYellow.png"
+            },
+            {
+                "id": 9,
+                "name": "LabubuPinkPumpkin",
+                "path": "D:\\Example\\MyPet\\pet\\LabubuPinkPumpkin.png"
+            },
+            {
+                "id": 10,
+                "name": "LabubuPrettyPumpkin",
+                "path": "D:\\Example\\MyPet\\pet\\LabubuPrettyPumpkin.png"
+            },
+            {
+                "id": 11,
+                "name": "LabubuPumpkin",
+                "path": "D:\\Example\\MyPet\\pet\\LabubuPumpkin.png"
+            },
+            {
+                "id": 12,
+                "name": "LabubuPumpkinBaby",
+                "path": "D:\\Example\\MyPet\\pet\\LabubuPumpkinBaby.png"
+            },
+            {
+                "id": 13,
+                "name": "LabubuPurple",
+                "path": "D:\\Example\\MyPet\\pet\\LabubuPurple.png"
+            },
+            {
+                "id": 14,
+                "name": "LabubuWaikawaGrey",
+                "path": "D:\\Example\\MyPet\\pet\\LabubuWaikawaGrey.png"
+            },
+            {
+                "id": 15,
+                "name": "LabubuWhite",
+                "path": "D:\\Example\\MyPet\\pet\\LabubuWhite.png"
+            },
+            {
+                "id": 16,
+                "name": "labubu_yellow",
+                "path": "D:\\Example\\MyPet\\pet\\labubu_yellow.png"
+            }
+        ]
+    }
+]
