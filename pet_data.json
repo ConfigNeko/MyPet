@@ -64,7 +64,7 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": false,
+        "isTrending": true,
         "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
         "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/background/Labubu.png"
     },
@@ -133,7 +133,7 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": false,
+        "isTrending": true,
         "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
         "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/background/Labubu.png"
     },
@@ -271,7 +271,7 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": false,
+        "isTrending": true,
         "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
         "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/background/Labubu.png"
     },
@@ -409,7 +409,7 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": false,
+        "isTrending": true,
         "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
         "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/background/Labubu.png"
     },
@@ -547,7 +547,7 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": false,
+        "isTrending": true,
         "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
         "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/background/Labubu.png"
     },
@@ -616,7 +616,7 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": false,
+        "isTrending": true,
         "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
         "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/background/Labubu.png"
     },
@@ -754,7 +754,7 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": false,
+        "isTrending": true,
         "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
         "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/background/Labubu.png"
     },
