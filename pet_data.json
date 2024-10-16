@@ -64,7 +64,8 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": true
+        "isTrending": false,
+        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
     },
     {
         "name": "LabubuDarkPink",
@@ -131,7 +132,8 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": false
+        "isTrending": false,
+        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
     },
     {
         "name": "LabubuDoll",
@@ -198,7 +200,8 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": false
+        "isTrending": false,
+        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
     },
     {
         "name": "LabubuGreen",
@@ -265,7 +268,8 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": false
+        "isTrending": false,
+        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
     },
     {
         "name": "LabubuGreenPumpkin",
@@ -332,7 +336,8 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": false
+        "isTrending": false,
+        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
     },
     {
         "name": "LabubuGrey",
@@ -399,7 +404,8 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": false
+        "isTrending": false,
+        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
     },
     {
         "name": "LabubuLightPink",
@@ -466,7 +472,8 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": false
+        "isTrending": false,
+        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
     },
     {
         "name": "LabubuPaleYellow",
@@ -533,7 +540,8 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": false
+        "isTrending": false,
+        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
     },
     {
         "name": "LabubuPinkPumpkin",
@@ -600,7 +608,8 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": false
+        "isTrending": false,
+        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
     },
     {
         "name": "LabubuPrettyPumpkin",
@@ -667,7 +676,8 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": true
+        "isTrending": false,
+        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
     },
     {
         "name": "LabubuPumpkin",
@@ -734,7 +744,8 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": false
+        "isTrending": false,
+        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
     },
     {
         "name": "LabubuPumpkinBaby",
@@ -801,7 +812,8 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": true
+        "isTrending": false,
+        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
     },
     {
         "name": "LabubuPurple",
@@ -868,7 +880,8 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": false
+        "isTrending": false,
+        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
     },
     {
         "name": "LabubuWaikawaGrey",
@@ -935,7 +948,8 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": true
+        "isTrending": false,
+        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
     },
     {
         "name": "LabubuWhite",
@@ -1002,7 +1016,8 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": false
+        "isTrending": false,
+        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
     },
     {
         "name": "LabubuYellow",
@@ -1069,6 +1084,7 @@
                 "isShowAds": false
             }
         ],
-        "isTrending": true
+        "isTrending": false,
+        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
     }
 ]
