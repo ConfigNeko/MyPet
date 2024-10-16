@@ -65,7 +65,8 @@
             }
         ],
         "isTrending": false,
-        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
+        "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
+        "pathBackground": "D:\\Example\\MyPet\\background\\example_background.png"
     },
     {
         "name": "LabubuDarkPink",
@@ -133,7 +134,8 @@
             }
         ],
         "isTrending": false,
-        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
+        "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
+        "pathBackground": "D:\\Example\\MyPet\\background\\example_background.png"
     },
     {
         "name": "LabubuDoll",
@@ -201,7 +203,8 @@
             }
         ],
         "isTrending": false,
-        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
+        "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
+        "pathBackground": "D:\\Example\\MyPet\\background\\example_background.png"
     },
     {
         "name": "LabubuGreen",
@@ -269,7 +272,8 @@
             }
         ],
         "isTrending": false,
-        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
+        "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
+        "pathBackground": "D:\\Example\\MyPet\\background\\example_background.png"
     },
     {
         "name": "LabubuGreenPumpkin",
@@ -337,7 +341,8 @@
             }
         ],
         "isTrending": false,
-        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
+        "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
+        "pathBackground": "D:\\Example\\MyPet\\background\\example_background.png"
     },
     {
         "name": "LabubuGrey",
@@ -405,7 +410,8 @@
             }
         ],
         "isTrending": false,
-        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
+        "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
+        "pathBackground": "D:\\Example\\MyPet\\background\\example_background.png"
     },
     {
         "name": "LabubuLightPink",
@@ -473,7 +479,8 @@
             }
         ],
         "isTrending": false,
-        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
+        "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
+        "pathBackground": "D:\\Example\\MyPet\\background\\example_background.png"
     },
     {
         "name": "LabubuPaleYellow",
@@ -541,7 +548,8 @@
             }
         ],
         "isTrending": false,
-        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
+        "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
+        "pathBackground": "D:\\Example\\MyPet\\background\\example_background.png"
     },
     {
         "name": "LabubuPinkPumpkin",
@@ -609,7 +617,8 @@
             }
         ],
         "isTrending": false,
-        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
+        "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
+        "pathBackground": "D:\\Example\\MyPet\\background\\example_background.png"
     },
     {
         "name": "LabubuPrettyPumpkin",
@@ -677,7 +686,8 @@
             }
         ],
         "isTrending": false,
-        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
+        "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
+        "pathBackground": "D:\\Example\\MyPet\\background\\example_background.png"
     },
     {
         "name": "LabubuPumpkin",
@@ -745,7 +755,8 @@
             }
         ],
         "isTrending": false,
-        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
+        "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
+        "pathBackground": "D:\\Example\\MyPet\\background\\example_background.png"
     },
     {
         "name": "LabubuPumpkinBaby",
@@ -813,7 +824,8 @@
             }
         ],
         "isTrending": false,
-        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
+        "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
+        "pathBackground": "D:\\Example\\MyPet\\background\\example_background.png"
     },
     {
         "name": "LabubuPurple",
@@ -881,7 +893,8 @@
             }
         ],
         "isTrending": false,
-        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
+        "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
+        "pathBackground": "D:\\Example\\MyPet\\background\\example_background.png"
     },
     {
         "name": "LabubuWaikawaGrey",
@@ -949,7 +962,8 @@
             }
         ],
         "isTrending": false,
-        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
+        "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
+        "pathBackground": "D:\\Example\\MyPet\\background\\example_background.png"
     },
     {
         "name": "LabubuWhite",
@@ -1017,7 +1031,8 @@
             }
         ],
         "isTrending": false,
-        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
+        "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
+        "pathBackground": "D:\\Example\\MyPet\\background\\example_background.png"
     },
     {
         "name": "LabubuYellow",
@@ -1085,6 +1100,7 @@
             }
         ],
         "isTrending": false,
-        "background_template": "D:\\Example\\MyPet\\bg_template\\Labubu.png"
+        "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/bg_template/Labubu.png",
+        "pathBackground": "D:\\Example\\MyPet\\background\\example_background.png"
     }
 ]
