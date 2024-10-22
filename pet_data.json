@@ -19,49 +19,49 @@
                 "id": 3,
                 "name": "Dance3",
                 "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBrown\\Dance3.gif",
-                "isShowAds": false
+                "isShowAds": true
             },
             {
                 "id": 4,
                 "name": "Drop_Done",
                 "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBrown\\Drop_Done.gif",
-                "isShowAds": false
+                "isShowAds": true
             },
             {
                 "id": 5,
                 "name": "Drop_Start",
                 "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBrown\\Drop_Start.gif",
-                "isShowAds": false
+                "isShowAds": true
             },
             {
                 "id": 6,
                 "name": "Drum",
                 "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBrown\\Drum.gif",
-                "isShowAds": false
+                "isShowAds": true
             },
             {
                 "id": 7,
                 "name": "Fly",
                 "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBrown\\Fly.gif",
-                "isShowAds": false
+                "isShowAds": true
             },
             {
                 "id": 8,
                 "name": "Move",
                 "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBrown\\Move.gif",
-                "isShowAds": false
+                "isShowAds": true
             },
             {
                 "id": 9,
                 "name": "Play",
                 "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBrown\\Play.gif",
-                "isShowAds": false
+                "isShowAds": true
             },
             {
                 "id": 10,
                 "name": "Sleep",
                 "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBrown\\Sleep.gif",
-                "isShowAds": false
+                "isShowAds": true
             }
         ],
         "isTrending": true,
