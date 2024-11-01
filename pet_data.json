@@ -1188,6 +1188,7 @@
         "name": "LabubuYellow",
         "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow/thumb.png",
         "anim": [
+
             {
                 "id": 1,
                 "name": "Dance1",
