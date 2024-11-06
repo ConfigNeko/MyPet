@@ -1279,8 +1279,8 @@
             },
             {
                 "id": 2,
-                "name": "Climb_right",
-                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Climb_right.gif",
+                "name": "Climb",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Climb.gif",
                 "isShowAds": false,
                 "isShow": true
             },
@@ -1400,8 +1400,8 @@
             },
             {
                 "id": 7,
-                "name": "Fly_right",
-                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BrownSuperStar/Fly_right.gif",
+                "name": "Fly",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BrownSuperStar/Fly.gif",
                 "isShowAds": false,
                 "isShow": true
             },
@@ -1451,8 +1451,8 @@
             },
             {
                 "id": 2,
-                "name": "Climb_right",
-                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BulbaCute/Climb_right.gif",
+                "name": "Climb",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BulbaCute/Climb.gif",
                 "isShowAds": false,
                 "isShow": true
             },
@@ -1486,8 +1486,8 @@
             },
             {
                 "id": 7,
-                "name": "Fly_right",
-                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BulbaCute/Fly_right.gif",
+                "name": "Fly",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BulbaCute/Fly.gif",
                 "isShowAds": false,
                 "isShow": true
             },
@@ -1802,22 +1802,22 @@
             },
             {
                 "id": 3,
-                "name": "Fly_Fire_right",
-                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/FireDragon/Fly_Fire_right.gif",
+                "name": "Fly_Fire",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/FireDragon/Fly_Fire.gif",
                 "isShowAds": false,
                 "isShow": true
             },
             {
                 "id": 4,
-                "name": "Fly_right",
-                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/FireDragon/Fly_right.gif",
+                "name": "Fly",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/FireDragon/Fly.gif",
                 "isShowAds": false,
                 "isShow": true
             },
             {
                 "id": 5,
-                "name": "Fly_Smile_right",
-                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/FireDragon/Fly_Smile_right.gif",
+                "name": "Fly_Smile",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/FireDragon/Fly_Smile.gif",
                 "isShowAds": false,
                 "isShow": true
             },
