@@ -2010,7 +2010,7 @@
             {
                 "id": 6,
                 "name": "Jump",
-                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatDrakGreen/Jump.gif",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatDrakGreen/Fly.gif",
                 "isShowAds": false,
                 "isShow": true
             },
@@ -2096,7 +2096,7 @@
             {
                 "id": 6,
                 "name": "Jump",
-                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGreen/Jump.gif",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGreen/Fly.gif",
                 "isShowAds": false,
                 "isShow": true
             },
@@ -3620,7 +3620,7 @@
             {
                 "id": 6,
                 "name": "Jump",
-                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Jump.gif",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Fly.gif",
                 "isShowAds": false,
                 "isShow": true
             },
@@ -3778,7 +3778,7 @@
             {
                 "id": 6,
                 "name": "Jump",
-                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Jump.gif",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Fly.gif",
                 "isShowAds": false,
                 "isShow": true
             },
