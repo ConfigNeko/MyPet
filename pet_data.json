@@ -1565,7 +1565,7 @@
             },
             {
                 "id": 6,
-                "name": "Lump",
+                "name": "Fly",
                 "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Capybara/Fly.gif",
                 "isShowAds": false,
                 "isShow": true
@@ -1651,7 +1651,7 @@
             },
             {
                 "id": 6,
-                "name": "Lump",
+                "name": "Fly",
                 "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/CapybaraGreen/Fly.gif",
                 "isShowAds": false,
                 "isShow": true
@@ -1737,7 +1737,7 @@
             },
             {
                 "id": 6,
-                "name": "Lump",
+                "name": "Fly",
                 "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/CapybaraPink/Fly.gif",
                 "isShowAds": false,
                 "isShow": true
@@ -3986,7 +3986,7 @@
                 "id": 11,
                 "name": "Sleep",
                 "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PapageiCute/Sleep.gif",
-                "isShowAds": false,s
+                "isShowAds": false,
                 "isShow": true
             }
         ]
