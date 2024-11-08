@@ -3742,8 +3742,8 @@
         "anim": [
             {
                 "id": 1,
-                "name": "Crawling",
-                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Crawling.gif",
+                "name": "Climb",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Climb.gif",
                 "isShowAds": false,
                 "isShow": true
             },
@@ -3777,7 +3777,7 @@
             },
             {
                 "id": 6,
-                "name": "Jump",
+                "name": "Fly",
                 "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Fly.gif",
                 "isShowAds": false,
                 "isShow": true
@@ -3818,5 +3818,92 @@
                 "isShow": true
             }
         ]
+    },
+    {
+        "name": "PirateCrab",
+        "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/thumb.png",
+        "isTrending": true,
+        "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/template.png",
+        "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/preview.png",
+        "anim": [
+            {
+                "id": 1,
+                "name": "Blow_Bubbles",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Blow_Bubbles.gif",
+                "isShowAds": false,
+                "isShow": true
+            },
+            {
+                "id": 2,
+                "name": "Dance1",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Dance1.gif",
+                "isShowAds": false,
+                "isShow": true
+            },
+            {
+                "id": 3,
+                "name": "Dance2",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Dance2.gif",
+                "isShowAds": false,
+                "isShow": true
+            },
+            {
+                "id": 4,
+                "name": "Drop_Done",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Drop_Done.gif",
+                "isShowAds": false,
+                "isShow": true
+            },
+            {
+                "id": 5,
+                "name": "Drop_Start",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Drop_Start.gif",
+                "isShowAds": false,
+                "isShow": true
+            },
+            {
+                "id": 6,
+                "name": "Eat",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Eat.gif",
+                "isShowAds": false,
+                "isShow": true
+            },
+            {
+                "id": 7,
+                "name": "Fly",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Fly.gif",
+                "isShowAds": false,
+                "isShow": true
+            },
+            {
+                "id": 8,
+                "name": "Idle",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Idle.gif",
+                "isShowAds": false,
+                "isShow": true
+            },
+            {
+                "id": 9,
+                "name": "Move",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Move.gif",
+                "isShowAds": false,
+                "isShow": true
+            },
+            {
+                "id": 10,
+                "name": "Sing",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Sing.gif",
+                "isShowAds": false,
+                "isShow": true
+            },
+            {
+                "id": 11,
+                "name": "Sleep",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Sleep.gif",
+                "isShowAds": false,
+                "isShow": true
+            }
+        ]
     }
+
 ]
