@@ -3904,6 +3904,92 @@
                 "isShow": true
             }
         ]
+    },
+    {
+        "name": "PapageiCute",
+        "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PapageiCute/thumb.png",
+        "isTrending": true,
+        "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PapageiCute/template.png",
+        "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PapageiCute/preview.png",
+        "anim": [
+            {
+                "id": 1,
+                "name": "Drop_Done",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PapageiCute/Drop_Done.gif",
+                "isShowAds": false,
+                "isShow": true
+            },
+            {
+                "id": 2,
+                "name": "Drop_Start",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PapageiCute/Drop_Start.gif",
+                "isShowAds": false,
+                "isShow": true
+            },
+            {
+                "id": 3,
+                "name": "Eat",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PapageiCute/Eat.gif",
+                "isShowAds": false,
+                "isShow": true
+            },
+            {
+                "id": 4,
+                "name": "Flapping_Wing",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PapageiCute/Flapping_Wing.gif",
+                "isShowAds": false,
+                "isShow": true
+            },
+            {
+                "id": 5,
+                "name": "Fly",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PapageiCute/Fly.gif",
+                "isShowAds": false,
+                "isShow": true
+            },
+            {
+                "id": 6,
+                "name": "Heart",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PapageiCute/Heart.gif",
+                "isShowAds": false,
+                "isShow": true
+            },
+            {
+                "id": 7,
+                "name": "Move1",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PapageiCute/Move1.gif",
+                "isShowAds": false,
+                "isShow": true
+            },
+            {
+                "id": 8,
+                "name": "Move2",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PapageiCute/Move2.gif",
+                "isShowAds": false,
+                "isShow": true
+            },
+            {
+                "id": 9,
+                "name": "Play_Toy",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PapageiCute/Play_Toy.gif",
+                "isShowAds": false,
+                "isShow": true
+            },
+            {
+                "id": 10,
+                "name": "Sing",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PapageiCute/Sing.gif",
+                "isShowAds": false,
+                "isShow": true
+            },
+            {
+                "id": 11,
+                "name": "Sleep",
+                "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PapageiCute/Sleep.gif",
+                "isShowAds": false,
+                "isShow": true
+            }
+        ]
     }
 
 ]
