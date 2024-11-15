@@ -1,6 +1,6 @@
 [
   {
-    "name": "LabubuBrown",
+    "name": "Labubu Brown",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBrown/thumb.png",
     "anim": [
       {
@@ -79,7 +79,7 @@
     "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBrown/preview.png"
   },
   {
-    "name": "LabubuDarkPink",
+    "name": "Labubu Dark Pink",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDarkPink/thumb.png",
     "anim": [
       {
@@ -158,7 +158,7 @@
     "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDarkPink/preview.png"
   },
   {
-    "name": "LabubuDoll",
+    "name": "Labubu Doll",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDoll/thumb.png",
     "anim": [
       {
@@ -237,7 +237,7 @@
     "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuDoll/preview.png"
   },
   {
-    "name": "LabubuGreen",
+    "name": "Labubu Green",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreen/thumb.png",
     "anim": [
       {
@@ -316,7 +316,7 @@
     "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreen/preview.png"
   },
   {
-    "name": "LabubuGreenPumpkin",
+    "name": "Labubu Green Pumpkin",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin/thumb.png",
     "anim": [
       {
@@ -395,7 +395,7 @@
     "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin/preview.png"
   },
   {
-    "name": "LabubuGrey",
+    "name": "Labubu Grey",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey/thumb.png",
     "anim": [
       {
@@ -474,7 +474,7 @@
     "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey/preview.png"
   },
   {
-    "name": "LabubuLightPink",
+    "name": "Labubu Light Pink",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink/thumb.png",
     "anim": [
       {
@@ -553,7 +553,7 @@
     "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink/preview.png"
   },
   {
-    "name": "LabubuPaleYellow",
+    "name": "Labubu Pale Yellow",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow/thumb.png",
     "anim": [
       {
@@ -632,7 +632,7 @@
     "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow/preview.png"
   },
   {
-    "name": "LabubuPinkPumpkin",
+    "name": "Labubu Pink Pumpkin",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin/thumb.png",
     "anim": [
       {
@@ -711,7 +711,7 @@
     "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin/preview.png"
   },
   {
-    "name": "LabubuPrettyPumpkin",
+    "name": "Labubu Pretty Pumpkin",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin/thumb.png",
     "anim": [
       {
@@ -790,7 +790,7 @@
     "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin/preview.png"
   },
   {
-    "name": "LabubuPumpkin",
+    "name": "Labubu Pumpkin",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkin/thumb.png",
     "anim": [
       {
@@ -869,7 +869,7 @@
     "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkin/preview.png"
   },
   {
-    "name": "LabubuPumpkinBaby",
+    "name": "Labubu Pumpkin Baby",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkinBaby/thumb.png",
     "anim": [
       {
@@ -948,7 +948,7 @@
     "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkinBaby/preview.png"
   },
   {
-    "name": "LabubuPurple",
+    "name": "Labubu Purple",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPurple/thumb.png",
     "anim": [
       {
@@ -1027,7 +1027,7 @@
     "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPurple/preview.png"
   },
   {
-    "name": "LabubuWaikawaGrey",
+    "name": "Labubu Waikawa Grey",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey/thumb.png",
     "anim": [
       {
@@ -1106,7 +1106,7 @@
     "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey/preview.png"
   },
   {
-    "name": "LabubuWhite",
+    "name": "Labubu White",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite/thumb.png",
     "anim": [
       {
@@ -1185,7 +1185,7 @@
     "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite/preview.png"
   },
   {
-    "name": "LabubuYellow",
+    "name": "Labubu Yellow",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow/thumb.png",
     "anim": [
       {
@@ -1264,7 +1264,7 @@
     "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow/preview.png"
   },
   {
-    "name": "BombomEmoji",
+    "name": "Bombom Emoji",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/template.png",
@@ -1350,7 +1350,7 @@
     ]
   },
   {
-    "name": "BrownSuperStar",
+    "name": "Brown Super Star",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BrownSuperStar/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BrownSuperStar/template.png",
@@ -1436,7 +1436,7 @@
     ]
   },
   {
-    "name": "BulbaCute",
+    "name": "Bulba Cute",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BulbaCute/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BulbaCute/template.png",
@@ -1608,7 +1608,7 @@
     ]
   },
   {
-    "name": "CapybaraGreen",
+    "name": "Capybara Green",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/CapybaraGreen/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/CapybaraGreen/template.png",
@@ -1694,7 +1694,7 @@
     ]
   },
   {
-    "name": "CapybaraPink",
+    "name": "Capybara Pink",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/CapybaraPink/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/CapybaraPink/template.png",
@@ -1780,7 +1780,7 @@
     ]
   },
   {
-    "name": "FireDragon",
+    "name": "Fire Dragon",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/FireDragon/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/FireDragon/template.png",
@@ -1966,7 +1966,7 @@
     ]
   },
   {
-    "name": "JellyCatDrakGreen",
+    "name": "JellyCat Dark Green",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatDrakGreen/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatDrakGreen/template.png",
@@ -2052,7 +2052,7 @@
     ]
   },
   {
-    "name": "JellyCatGrey",
+    "name": "JellyCat Grey",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/template.png",
@@ -2138,7 +2138,7 @@
     ]
   },
   {
-    "name": "JellyCatGreen",
+    "name": "JellyCat Green",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGreen/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGreen/template.png",
@@ -2224,7 +2224,7 @@
     ]
   },
   {
-    "name": "JellyCatLightBlue",
+    "name": "JellyCat Light Blue",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatLightBlue/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatLightBlue/template.png",
@@ -2310,7 +2310,7 @@
     ]
   },
   {
-    "name": "JellyCatPink",
+    "name": "JellyCat Pink",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/template.png",
@@ -2396,7 +2396,7 @@
     ]
   },
   {
-    "name": "JellyCatRed",
+    "name": "JellyCat Red",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatRed/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatRed/template.png",
@@ -2482,7 +2482,7 @@
     ]
   },
   {
-    "name": "JellyCatYellow",
+    "name": "JellyCat Yellow",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatYellow/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatYellow/template.png",
@@ -2568,7 +2568,7 @@
     ]
   },
   {
-    "name": "Jelly_Blue",
+    "name": "Jelly Blue",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue/template.png",
@@ -2640,7 +2640,7 @@
     ]
   },
   {
-    "name": "Jelly_Blue_Neon",
+    "name": "Jelly Blue Neon",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/template.png",
@@ -2712,7 +2712,7 @@
     ]
   },
   {
-    "name": "Jelly_Blue_Sea",
+    "name": "Jelly Blue Sea",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Sea/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Sea/template.png",
@@ -2784,7 +2784,7 @@
     ]
   },
   {
-    "name": "Jelly_Color",
+    "name": "Jelly Color",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/template.png",
@@ -2856,7 +2856,7 @@
     ]
   },
   {
-    "name": "Jelly_Green",
+    "name": "Jelly Green",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Green/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Green/template.png",
@@ -2928,7 +2928,7 @@
     ]
   },
   {
-    "name": "Jelly_Green_Neon",
+    "name": "Jelly Green Neon",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Green_Neon/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Green_Neon/template.png",
@@ -3000,7 +3000,7 @@
     ]
   },
   {
-    "name": "Jelly_Orange",
+    "name": "Jelly Orange",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/template.png",
@@ -3072,7 +3072,7 @@
     ]
   },
   {
-    "name": "Jelly_Pink",
+    "name": "Jelly Pink",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/template.png",
@@ -3144,7 +3144,7 @@
     ]
   },
   {
-    "name": "Jelly_Purple",
+    "name": "Jelly Purple",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Purple/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Purple/template.png",
@@ -3216,7 +3216,7 @@
     ]
   },
   {
-    "name": "Jelly_Purple_Pink",
+    "name": "Jelly Purple Pink",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Purple_Pink/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Purple_Pink/template.png",
@@ -3288,7 +3288,7 @@
     ]
   },
   {
-    "name": "Jelly_Red",
+    "name": "Jelly Red",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red/template.png",
@@ -3360,7 +3360,7 @@
     ]
   },
   {
-    "name": "Jelly_Red_Blue",
+    "name": "Jelly Red Blue",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Blue/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Blue/template.png",
@@ -3432,7 +3432,7 @@
     ]
   },
   {
-    "name": "Jelly_Red_Ocean",
+    "name": "Jelly Red Ocean",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/template.png",
@@ -3504,7 +3504,7 @@
     ]
   },
   {
-    "name": "Jelly_White",
+    "name": "Jelly White",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/template.png",
@@ -3576,7 +3576,7 @@
     ]
   },
   {
-    "name": "Jelly_Yellow",
+    "name": "Jelly Yellow",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/template.png",
@@ -3827,7 +3827,7 @@
     ]
   },
   {
-    "name": "PandaFubao",
+    "name": "Panda Fubao",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PandaFubao/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PandaFubao/template.png",
@@ -4085,7 +4085,7 @@
     ]
   },
   {
-    "name": "SuperPig",
+    "name": "Super Pig",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/template.png",
@@ -4164,7 +4164,7 @@
     ]
   },
   {
-    "name": "TurtleCute",
+    "name": "Turtle Cute",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/template.png",
@@ -4250,7 +4250,7 @@
     ]
   },
   {
-    "name": "PirateCrab",
+    "name": "Pirate Crab",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/template.png",
@@ -4336,7 +4336,7 @@
     ]
   },
   {
-    "name": "PapageiCute",
+    "name": "Papagei Cute",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PapageiCute/thumb.png",
     "isTrending": true,
     "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PapageiCute/template.png",
