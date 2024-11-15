@@ -3807,7 +3807,8 @@
         "id": 9,
         "name": "Sing",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/Sing.gif",
-        true        "isShow": true
+        "isShowAds": true,
+        "isShow": true
       }
     ]
   },
