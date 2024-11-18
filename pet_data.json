@@ -2049,7 +2049,7 @@
         "name": "Fly",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/FireDragon/Fly.gif",
         "isShowAds": false,
-        "isShow": false
+        "isShow": true
       },
       {
         "id": 5,
@@ -2156,7 +2156,7 @@
         "name": "Fly",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Fly.gif",
         "isShowAds": false,
-        "isShow": false
+        "isShow": true
       },
       {
         "id": 6,
