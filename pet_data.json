@@ -725,322 +725,6 @@
     ]
   },
   {
-    "name": "Labubu Green Pumpkin",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin/thumb.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Dance1",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Dance1.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Dance2",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Dance2.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 3,
-        "name": "Dance3",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Dance3.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 4,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 5,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 6,
-        "name": "Drum",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Drum.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 7,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 8,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Move.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 9,
-        "name": "Play",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Play.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 10,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      }
-    ],
-    "isTrending": true,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin/preview.png"
-  },
-  {
-    "name": "Jelly Blue Neon",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/thumb.png",
-    "isTrending": true,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/preview.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Bubbles",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/Bubbles.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Change_Color",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/Change_Color.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 3,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 4,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 5,
-        "name": "Heart",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/Heart.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 6,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 7,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/Move.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 8,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 9,
-        "name": "Sing",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/Sing.gif",
-        "isShowAds": true,
-        "isShow": true
-      }
-    ]
-  },
-  {
-    "name": "JellyCat Grey",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/thumb.png",
-    "isTrending": true,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/preview.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Dance",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Dance.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 3,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 4,
-        "name": "Eat_Carot",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Eat_Carot.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 5,
-        "name": "Eat_Hambuger",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Eat_Hambuger.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 6,
-        "name": "Jump",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Fly.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 7,
-        "name": "Move1",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Move1.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 8,
-        "name": "Move2",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Move2.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 9,
-        "name": "Move3",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Move3.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 10,
-        "name": "Sing",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Sing.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 11,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      }
-    ]
-  },
-  {
-    "name": "Labubu Grey",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey/thumb.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Dance1",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Dance1.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Dance2",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Dance2.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 3,
-        "name": "Dance3",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Dance3.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 4,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 5,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 6,
-        "name": "Drum",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Drum.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 7,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 8,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Move.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 9,
-        "name": "Play",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Play.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 10,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      }
-    ],
-    "isTrending": true,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey/preview.png"
-  },
-  {
     "name": "Jelly Blue Sea",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Sea/thumb.png",
     "isTrending": true,
@@ -1199,322 +883,6 @@
     ]
   },
   {
-    "name": "Labubu Light Pink",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink/thumb.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Dance1",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Dance1.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Dance2",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Dance2.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 3,
-        "name": "Dance3",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Dance3.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 4,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 5,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 6,
-        "name": "Drum",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Drum.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 7,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 8,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Move.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 9,
-        "name": "Play",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Play.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 10,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      }
-    ],
-    "isTrending": true,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink/preview.png"
-  },
-  {
-    "name": "Jelly Color",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/thumb.png",
-    "isTrending": true,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/preview.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Bubbles",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/Bubbles.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Change_Color",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/Change_Color.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 3,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 4,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 5,
-        "name": "Heart",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/Heart.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 6,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 7,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/Move.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 8,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 9,
-        "name": "Sing",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/Sing.gif",
-        "isShowAds": true,
-        "isShow": true
-      }
-    ]
-  },
-  {
-    "name": "JellyCat Pink",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/thumb.png",
-    "isTrending": true,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/preview.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Dance",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Dance.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 3,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 4,
-        "name": "Eat_Carot",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Eat_Carot.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 5,
-        "name": "Eat_Hambuger",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Eat_Hambuger.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 6,
-        "name": "Jump",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Fly.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 7,
-        "name": "Move1",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Move1.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 8,
-        "name": "Move2",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Move2.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 9,
-        "name": "Move3",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Move3.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 10,
-        "name": "Sing",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Sing.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 11,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      }
-    ]
-  },
-  {
-    "name": "Labubu Pale Yellow",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow/thumb.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Dance1",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Dance1.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Dance2",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Dance2.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 3,
-        "name": "Dance3",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Dance3.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 4,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 5,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 6,
-        "name": "Drum",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Drum.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 7,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 8,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Move.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 9,
-        "name": "Play",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Play.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 10,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      }
-    ],
-    "isTrending": true,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow/preview.png"
-  },
-  {
     "name": "Jelly Green",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Green/thumb.png",
     "isTrending": true,
@@ -1671,6 +1039,164 @@
         "isShow": false
       }
     ]
+  },
+  {
+    "name": "Labubu Pink Pumpkin",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin/thumb.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Dance1",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Dance1.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 2,
+        "name": "Dance2",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Dance2.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 3,
+        "name": "Dance3",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Dance3.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 4,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 5,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 6,
+        "name": "Drum",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Drum.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 7,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 8,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 9,
+        "name": "Play",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Play.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 10,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      }
+    ],
+    "isTrending": false,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin/preview.png"
+  },
+  {
+    "name": "Labubu Pretty Pumpkin",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin/thumb.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Dance1",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Dance1.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 2,
+        "name": "Dance2",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Dance2.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 3,
+        "name": "Dance3",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Dance3.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 4,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 5,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 6,
+        "name": "Drum",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Drum.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 7,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 8,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 9,
+        "name": "Play",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Play.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 10,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      }
+    ],
+    "isTrending": false,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin/preview.png"
   },
   {
     "name": "Capybara Pink",
@@ -2003,164 +1529,6 @@
     ]
   },
   {
-    "name": "Labubu Pink Pumpkin",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin/thumb.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Dance1",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Dance1.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Dance2",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Dance2.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 3,
-        "name": "Dance3",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Dance3.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 4,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 5,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 6,
-        "name": "Drum",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Drum.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 7,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 8,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Move.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 9,
-        "name": "Play",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Play.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 10,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin\\Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      }
-    ],
-    "isTrending": false,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPinkPumpkin/preview.png"
-  },
-  {
-    "name": "Labubu Pretty Pumpkin",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin/thumb.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Dance1",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Dance1.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Dance2",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Dance2.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 3,
-        "name": "Dance3",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Dance3.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 4,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 5,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 6,
-        "name": "Drum",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Drum.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 7,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 8,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Move.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 9,
-        "name": "Play",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Play.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 10,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin\\Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      }
-    ],
-    "isTrending": false,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPrettyPumpkin/preview.png"
-  },
-  {
     "name": "Labubu Pumpkin",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkin/thumb.png",
     "anim": [
@@ -2319,6 +1687,394 @@
     "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPumpkinBaby/preview.png"
   },
   {
+    "name": "Jelly Color",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/thumb.png",
+    "isTrending": true,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/preview.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Bubbles",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/Bubbles.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 2,
+        "name": "Change_Color",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/Change_Color.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 3,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 4,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 5,
+        "name": "Heart",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/Heart.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 6,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 7,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 8,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 9,
+        "name": "Sing",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Color/Sing.gif",
+        "isShowAds": true,
+        "isShow": true
+      }
+    ]
+  },
+  {
+    "name": "Labubu Light Pink",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink/thumb.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Dance1",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Dance1.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 2,
+        "name": "Dance2",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Dance2.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 3,
+        "name": "Dance3",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Dance3.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 4,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 5,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 6,
+        "name": "Drum",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Drum.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 7,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 8,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 9,
+        "name": "Play",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Play.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 10,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink\\Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      }
+    ],
+    "isTrending": true,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuLightPink/preview.png"
+  },
+  {
+    "name": "JellyCat Pink",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/thumb.png",
+    "isTrending": true,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/preview.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Dance",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Dance.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 2,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 3,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 4,
+        "name": "Eat_Carot",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Eat_Carot.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 5,
+        "name": "Eat_Hambuger",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Eat_Hambuger.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 6,
+        "name": "Jump",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Fly.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 7,
+        "name": "Move1",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Move1.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 8,
+        "name": "Move2",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Move2.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 9,
+        "name": "Move3",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Move3.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 10,
+        "name": "Sing",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Sing.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 11,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      }
+    ]
+  },
+  {
+    "name": "Labubu Pale Yellow",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow/thumb.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Dance1",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Dance1.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 2,
+        "name": "Dance2",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Dance2.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 3,
+        "name": "Dance3",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Dance3.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 4,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 5,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 6,
+        "name": "Drum",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Drum.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 7,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 8,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 9,
+        "name": "Play",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Play.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 10,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow\\Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      }
+    ],
+    "isTrending": true,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPaleYellow/preview.png"
+  },
+  {
+    "name": "Jelly Orange",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/thumb.png",
+    "isTrending": false,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/preview.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Bubbles",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/Bubbles.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 2,
+        "name": "Change_Color",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/Change_Color.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 3,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 4,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 5,
+        "name": "Heart",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/Heart.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 6,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 7,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 8,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 9,
+        "name": "Sing",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/Sing.gif",
+        "isShowAds": true,
+        "isShow": true
+      }
+    ]
+  },
+  {
     "name": "Labubu Purple",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPurple/thumb.png",
     "anim": [
@@ -2398,564 +2154,320 @@
     "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuPurple/preview.png"
   },
   {
-    "name": "Labubu Waikawa Grey",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey/thumb.png",
+    "name": "Labubu Green Pumpkin",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin/thumb.png",
     "anim": [
       {
         "id": 1,
         "name": "Dance1",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Dance1.gif",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Dance1.gif",
         "isShowAds": false,
         "isShow": true
       },
       {
         "id": 2,
         "name": "Dance2",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Dance2.gif",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Dance2.gif",
         "isShowAds": false,
         "isShow": true
       },
       {
         "id": 3,
         "name": "Dance3",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Dance3.gif",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Dance3.gif",
         "isShowAds": true,
         "isShow": true
       },
       {
         "id": 4,
         "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Drop_Done.gif",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Drop_Done.gif",
         "isShowAds": true,
         "isShow": false
       },
       {
         "id": 5,
         "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Drop_Start.gif",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Drop_Start.gif",
         "isShowAds": true,
         "isShow": false
       },
       {
         "id": 6,
         "name": "Drum",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Drum.gif",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Drum.gif",
         "isShowAds": true,
         "isShow": true
       },
       {
         "id": 7,
         "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Fly.gif",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Fly.gif",
         "isShowAds": true,
         "isShow": false
       },
       {
         "id": 8,
         "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Move.gif",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Move.gif",
         "isShowAds": true,
         "isShow": false
       },
       {
         "id": 9,
         "name": "Play",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Play.gif",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Play.gif",
         "isShowAds": true,
         "isShow": true
       },
       {
         "id": 10,
         "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Sleep.gif",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin\\Sleep.gif",
         "isShowAds": true,
         "isShow": false
       }
     ],
-    "isTrending": false,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey/preview.png"
+    "isTrending": true,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGreenPumpkin/preview.png"
   },
   {
-    "name": "Labubu White",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite/thumb.png",
+    "name": "Jelly Blue Neon",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/thumb.png",
+    "isTrending": true,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/preview.png",
     "anim": [
       {
         "id": 1,
-        "name": "Dance1",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Dance1.gif",
+        "name": "Bubbles",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/Bubbles.gif",
         "isShowAds": false,
         "isShow": true
       },
       {
         "id": 2,
-        "name": "Dance2",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Dance2.gif",
+        "name": "Change_Color",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/Change_Color.gif",
         "isShowAds": false,
         "isShow": true
       },
       {
         "id": 3,
-        "name": "Dance3",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Dance3.gif",
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/Drop_Done.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 4,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Drop_Done.gif",
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/Drop_Start.gif",
         "isShowAds": true,
         "isShow": false
       },
       {
         "id": 5,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 6,
-        "name": "Drum",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Drum.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 7,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 8,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Move.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 9,
-        "name": "Play",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Play.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 10,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      }
-    ],
-    "isTrending": false,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite/preview.png"
-  },
-  {
-    "name": "Labubu Yellow",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow/thumb.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Dance1",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Dance1.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Dance2",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Dance2.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 3,
-        "name": "Dance3",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Dance3.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 4,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 5,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 6,
-        "name": "Drum",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Drum.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 7,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 8,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Move.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 9,
-        "name": "Play",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Play.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 10,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      }
-    ],
-    "isTrending": false,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow/preview.png"
-  },
-  {
-    "name": "Labubu Cute",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute/thumb.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Dance1",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute\\Dance1.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Dance2",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute\\Dance2.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 3,
-        "name": "Dance3",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute\\Dance3.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 4,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute\\Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 5,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute\\Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 6,
-        "name": "Drum",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute\\Drum.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 7,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute\\Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 8,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute\\Move.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 9,
-        "name": "Play",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute\\Play.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 10,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute\\Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      }
-    ],
-    "isTrending": false,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute/preview.png"
-  },
-  {
-    "name": "Labubu Baby",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby/thumb.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Dance1",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby\\Dance1.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Dance2",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby\\Dance2.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 3,
-        "name": "Dance3",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby\\Dance3.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 4,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby\\Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 5,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby\\Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 6,
-        "name": "Drum",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby\\Drum.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 7,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby\\Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 8,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby\\Move.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 9,
-        "name": "Play",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby\\Play.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 10,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby\\Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      }
-    ],
-    "isTrending": false,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby/preview.png"
-  },
-  {
-    "name": "Labubu Vip",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip/thumb.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Dance1",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip\\Dance1.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Dance2",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip\\Dance2.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 3,
-        "name": "Dance3",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip\\Dance3.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 4,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip\\Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 5,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip\\Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 6,
-        "name": "Drum",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip\\Drum.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 7,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip\\Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 8,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip\\Move.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 9,
-        "name": "Play",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip\\Play.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 10,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip\\Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      }
-    ],
-    "isTrending": false,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip/preview.png"
-  },
-  {
-    "name": "Bombom Emoji",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/thumb.png",
-    "isTrending": false,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/preview.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Cheer",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Cheer.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Climb",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Climb.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 3,
-        "name": "Dance",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Dance.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 4,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 5,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 6,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 7,
         "name": "Heart",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Heart.gif",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/Heart.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 6,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 7,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 8,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 9,
+        "name": "Sing",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Blue_Neon/Sing.gif",
+        "isShowAds": true,
+        "isShow": true
+      }
+    ]
+  },
+  {
+    "name": "JellyCat Grey",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/thumb.png",
+    "isTrending": true,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/preview.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Dance",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Dance.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 2,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 3,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 4,
+        "name": "Eat_Carot",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Eat_Carot.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 5,
+        "name": "Eat_Hambuger",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Eat_Hambuger.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 6,
+        "name": "Jump",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Fly.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 7,
+        "name": "Move1",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Move1.gif",
         "isShowAds": true,
         "isShow": true
       },
       {
         "id": 8,
-        "name": "IceCream",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/IceCream.gif",
+        "name": "Move2",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Move2.gif",
         "isShowAds": true,
         "isShow": true
       },
       {
         "id": 9,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Move.gif",
+        "name": "Move3",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Move3.gif",
         "isShowAds": true,
-        "isShow": false
+        "isShow": true
       },
       {
         "id": 10,
         "name": "Sing",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Sing.gif",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Sing.gif",
         "isShowAds": true,
         "isShow": true
       },
       {
         "id": 11,
         "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Sleep.gif",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Sleep.gif",
         "isShowAds": true,
         "isShow": false
       }
     ]
+  },
+  {
+    "name": "Labubu Grey",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey/thumb.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Dance1",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Dance1.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 2,
+        "name": "Dance2",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Dance2.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 3,
+        "name": "Dance3",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Dance3.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 4,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 5,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 6,
+        "name": "Drum",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Drum.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 7,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 8,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 9,
+        "name": "Play",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Play.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 10,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey\\Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      }
+    ],
+    "isTrending": true,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuGrey/preview.png"
   },
   {
     "name": "Brown Super Star",
@@ -3044,6 +2556,85 @@
     ]
   },
   {
+    "name": "Labubu Waikawa Grey",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey/thumb.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Dance1",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Dance1.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 2,
+        "name": "Dance2",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Dance2.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 3,
+        "name": "Dance3",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Dance3.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 4,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 5,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 6,
+        "name": "Drum",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Drum.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 7,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 8,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 9,
+        "name": "Play",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Play.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 10,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey\\Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      }
+    ],
+    "isTrending": false,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWaikawaGrey/preview.png"
+  },
+  {
     "name": "Bulba Cute",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BulbaCute/thumb.png",
     "isTrending": false,
@@ -3128,6 +2719,566 @@
         "isShow": false
       }
     ]
+  },
+  {
+    "name": "Labubu White",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite/thumb.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Dance1",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Dance1.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 2,
+        "name": "Dance2",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Dance2.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 3,
+        "name": "Dance3",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Dance3.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 4,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 5,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 6,
+        "name": "Drum",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Drum.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 7,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 8,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 9,
+        "name": "Play",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Play.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 10,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite\\Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      }
+    ],
+    "isTrending": false,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuWhite/preview.png"
+  },
+  {
+    "name": "Bombom Emoji",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/thumb.png",
+    "isTrending": false,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/preview.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Cheer",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Cheer.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 2,
+        "name": "Climb",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Climb.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 3,
+        "name": "Dance",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Dance.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 4,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 5,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 6,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 7,
+        "name": "Heart",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Heart.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 8,
+        "name": "IceCream",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/IceCream.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 9,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 10,
+        "name": "Sing",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Sing.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 11,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/BombomEmoji/Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      }
+    ]
+  },
+  {
+    "name": "Labubu Yellow",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow/thumb.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Dance1",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Dance1.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 2,
+        "name": "Dance2",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Dance2.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 3,
+        "name": "Dance3",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Dance3.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 4,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 5,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 6,
+        "name": "Drum",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Drum.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 7,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 8,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 9,
+        "name": "Play",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Play.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 10,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow\\Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      }
+    ],
+    "isTrending": false,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuYellow/preview.png"
+  },
+  {
+    "name": "Jelly Pink",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/thumb.png",
+    "isTrending": false,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/preview.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Bubbles",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/Bubbles.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 2,
+        "name": "Change_Color",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/Change_Color.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 3,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 4,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 5,
+        "name": "Heart",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/Heart.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 6,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 7,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 8,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 9,
+        "name": "Sing",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/Sing.gif",
+        "isShowAds": true,
+        "isShow": true
+      }
+    ]
+  },
+  {
+    "name": "Labubu Cute",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute/thumb.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Dance1",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute\\Dance1.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 2,
+        "name": "Dance2",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute\\Dance2.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 3,
+        "name": "Dance3",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute\\Dance3.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 4,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute\\Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 5,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute\\Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 6,
+        "name": "Drum",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute\\Drum.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 7,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute\\Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 8,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute\\Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 9,
+        "name": "Play",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute\\Play.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 10,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute\\Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      }
+    ],
+    "isTrending": false,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuCute/preview.png"
+  },
+  {
+    "name": "Goodzilla",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/thumb.png",
+    "isTrending": false,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/preview.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Climb",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Climb.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 2,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 3,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 4,
+        "name": "Fire",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Fire.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 5,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Fly.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 6,
+        "name": "Jump_Parachute",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Jump_Parachute.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 7,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 8,
+        "name": "Move_Cake",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Move_Cake.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 9,
+        "name": "Move_Flower",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Move_Flower.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 10,
+        "name": "Move_Sing",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Move_Sing.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 11,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      }
+    ]
+  },
+  {
+    "name": "Labubu Baby",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby/thumb.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Dance1",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby\\Dance1.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 2,
+        "name": "Dance2",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby\\Dance2.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 3,
+        "name": "Dance3",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby\\Dance3.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 4,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby\\Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 5,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby\\Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 6,
+        "name": "Drum",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby\\Drum.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 7,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby\\Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 8,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby\\Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 9,
+        "name": "Play",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby\\Play.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 10,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby\\Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      }
+    ],
+    "isTrending": false,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuBaby/preview.png"
   },
   {
     "name": "Fire Dragon",
@@ -3230,234 +3381,83 @@
     ]
   },
   {
-    "name": "Goodzilla",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/thumb.png",
-    "isTrending": false,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/preview.png",
+    "name": "Labubu Vip",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip/thumb.png",
     "anim": [
       {
         "id": 1,
-        "name": "Climb",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Climb.gif",
-        "isShowAds": true,
-        "isShow": false
+        "name": "Dance1",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip\\Dance1.gif",
+        "isShowAds": false,
+        "isShow": true
       },
       {
         "id": 2,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
+        "name": "Dance2",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip\\Dance2.gif",
+        "isShowAds": false,
+        "isShow": true
       },
       {
         "id": 3,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Drop_Start.gif",
+        "name": "Dance3",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip\\Dance3.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 4,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip\\Drop_Done.gif",
         "isShowAds": true,
         "isShow": false
       },
       {
-        "id": 4,
-        "name": "Fire",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Fire.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
         "id": 5,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Fly.gif",
-        "isShowAds": false,
-        "isShow": true
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip\\Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
       },
       {
         "id": 6,
-        "name": "Jump_Parachute",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Jump_Parachute.gif",
+        "name": "Drum",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip\\Drum.gif",
         "isShowAds": true,
         "isShow": true
       },
       {
         "id": 7,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Move.gif",
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip\\Fly.gif",
         "isShowAds": true,
         "isShow": false
       },
       {
         "id": 8,
-        "name": "Move_Cake",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Move_Cake.gif",
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip\\Move.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 9,
-        "name": "Move_Flower",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Move_Flower.gif",
+        "name": "Play",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip\\Play.gif",
         "isShowAds": true,
         "isShow": true
       },
       {
         "id": 10,
-        "name": "Move_Sing",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Move_Sing.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 11,
         "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Sleep.gif",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip\\Sleep.gif",
         "isShowAds": true,
         "isShow": false
       }
-    ]
-  },
-  {
-    "name": "Jelly Orange",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/thumb.png",
+    ],
     "isTrending": false,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/preview.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Bubbles",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/Bubbles.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Change_Color",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/Change_Color.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 3,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 4,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 5,
-        "name": "Heart",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/Heart.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 6,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 7,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/Move.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 8,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 9,
-        "name": "Sing",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Orange/Sing.gif",
-        "isShowAds": true,
-        "isShow": true
-      }
-    ]
-  },
-  {
-    "name": "Jelly Pink",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/thumb.png",
-    "isTrending": false,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/preview.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Bubbles",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/Bubbles.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Change_Color",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/Change_Color.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 3,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 4,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 5,
-        "name": "Heart",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/Heart.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 6,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 7,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/Move.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 8,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 9,
-        "name": "Sing",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Pink/Sing.gif",
-        "isShowAds": true,
-        "isShow": true
-      }
-    ]
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/LabubuVip/preview.png"
   },
   {
     "name": "Jelly Purple",
@@ -3526,6 +3526,85 @@
         "id": 9,
         "name": "Sing",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Purple/Sing.gif",
+        "isShowAds": true,
+        "isShow": true
+      }
+    ]
+  },
+  {
+    "name": "Puppy",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/thumb.png",
+    "isTrending": false,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/preview.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Barking",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Barking.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 2,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 3,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 4,
+        "name": "Eat",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Eat.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 5,
+        "name": "Guitar",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Guitar.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 6,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 7,
+        "name": "Lying",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Lying.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 8,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 9,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 10,
+        "name": "Stand",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Stand.gif",
         "isShowAds": true,
         "isShow": true
       }
@@ -3604,6 +3683,92 @@
     ]
   },
   {
+    "name": "Pirate Crab",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/thumb.png",
+    "isTrending": false,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/preview.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Blow_Bubbles",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Blow_Bubbles.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 2,
+        "name": "Dance1",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Dance1.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 3,
+        "name": "Dance2",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Dance2.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 4,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 5,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 6,
+        "name": "Eat",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Eat.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 7,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 8,
+        "name": "Idle",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Idle.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 9,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 10,
+        "name": "Sing",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Sing.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 11,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      }
+    ]
+  },
+  {
     "name": "Jelly Red",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red/thumb.png",
     "isTrending": false,
@@ -3676,6 +3841,92 @@
     ]
   },
   {
+    "name": "Lasvegas",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/thumb.png",
+    "isTrending": false,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/preview.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Climb",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Climb.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 2,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 3,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 4,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 5,
+        "name": "Glance",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Glance.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 6,
+        "name": "Heart",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Heart.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 7,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 8,
+        "name": "Sing",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Sing.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 9,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 10,
+        "name": "Smile",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Smile.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 11,
+        "name": "Wink",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Wink.gif",
+        "isShowAds": true,
+        "isShow": true
+      }
+    ]
+  },
+  {
     "name": "Jelly Red Blue",
     "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Blue/thumb.png",
     "isTrending": false,
@@ -3742,222 +3993,6 @@
         "id": 9,
         "name": "Sing",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Blue/Sing.gif",
-        "isShowAds": true,
-        "isShow": true
-      }
-    ]
-  },
-  {
-    "name": "Jelly Red Ocean",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/thumb.png",
-    "isTrending": false,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/preview.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Bubbles",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/Bubbles.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Change_Color",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/Change_Color.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 3,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 4,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 5,
-        "name": "Heart",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/Heart.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 6,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 7,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/Move.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 8,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 9,
-        "name": "Sing",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/Sing.gif",
-        "isShowAds": true,
-        "isShow": true
-      }
-    ]
-  },
-  {
-    "name": "Jelly White",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/thumb.png",
-    "isTrending": false,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/preview.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Bubbles",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/Bubbles.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Change_Color",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/Change_Color.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 3,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 4,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 5,
-        "name": "Heart",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/Heart.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 6,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 7,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/Move.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 8,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 9,
-        "name": "Sing",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/Sing.gif",
-        "isShowAds": true,
-        "isShow": true
-      }
-    ]
-  },
-  {
-    "name": "Jelly Yellow",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/thumb.png",
-    "isTrending": false,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/preview.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Bubbles",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/Bubbles.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Change_Color",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/Change_Color.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 3,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 4,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 5,
-        "name": "Heart",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/Heart.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 6,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 7,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/Move.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 8,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 9,
-        "name": "Sing",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/Sing.gif",
         "isShowAds": true,
         "isShow": true
       }
@@ -4057,86 +4092,223 @@
     ]
   },
   {
-    "name": "Lasvegas",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/thumb.png",
+    "name": "Jelly Red Ocean",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/thumb.png",
     "isTrending": false,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/preview.png",
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/preview.png",
     "anim": [
       {
         "id": 1,
-        "name": "Climb",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Climb.gif",
-        "isShowAds": true,
-        "isShow": false
+        "name": "Bubbles",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/Bubbles.gif",
+        "isShowAds": false,
+        "isShow": true
       },
       {
         "id": 2,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
+        "name": "Change_Color",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/Change_Color.gif",
+        "isShowAds": false,
+        "isShow": true
       },
       {
         "id": 3,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Drop_Start.gif",
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/Drop_Done.gif",
         "isShowAds": true,
         "isShow": false
       },
       {
         "id": 4,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Fly.gif",
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/Drop_Start.gif",
         "isShowAds": true,
         "isShow": false
       },
       {
         "id": 5,
-        "name": "Glance",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Glance.gif",
-        "isShowAds": false,
+        "name": "Heart",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/Heart.gif",
+        "isShowAds": true,
         "isShow": true
       },
       {
         "id": 6,
-        "name": "Heart",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Heart.gif",
-        "isShowAds": false,
-        "isShow": true
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/Fly.gif",
+        "isShowAds": true,
+        "isShow": false
       },
       {
         "id": 7,
         "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Move.gif",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/Move.gif",
         "isShowAds": true,
         "isShow": false
       },
       {
         "id": 8,
-        "name": "Sing",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Sing.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 9,
         "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Sleep.gif",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/Sleep.gif",
         "isShowAds": true,
         "isShow": false
       },
       {
-        "id": 10,
-        "name": "Smile",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Smile.gif",
+        "id": 9,
+        "name": "Sing",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Red_Ocean/Sing.gif",
+        "isShowAds": true,
+        "isShow": true
+      }
+    ]
+  },
+  {
+    "name": "Super Pig",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/thumb.png",
+    "isTrending": false,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/preview.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Dance",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/Dance.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 2,
+        "name": "Drink",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/Drink.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 3,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 4,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 5,
+        "name": "Eat",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/Eat.gif",
         "isShowAds": true,
         "isShow": true
       },
       {
-        "id": 11,
-        "name": "Wink",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Lasvegas/Wink.gif",
+        "id": 6,
+        "name": "Exercise",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/Exercise.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 7,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 8,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 9,
+        "name": "Sing",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/Sing.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 10,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      }
+    ]
+  },
+  {
+    "name": "Jelly White",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/thumb.png",
+    "isTrending": false,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/preview.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Bubbles",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/Bubbles.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 2,
+        "name": "Change_Color",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/Change_Color.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 3,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 4,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 5,
+        "name": "Heart",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/Heart.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 6,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 7,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 8,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 9,
+        "name": "Sing",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_White/Sing.gif",
         "isShowAds": true,
         "isShow": true
       }
@@ -4223,6 +4395,164 @@
         "id": 11,
         "name": "Sleep",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PandaFubao/Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      }
+    ]
+  },
+  {
+    "name": "Jelly Yellow",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/thumb.png",
+    "isTrending": false,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/preview.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Bubbles",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/Bubbles.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 2,
+        "name": "Change_Color",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/Change_Color.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 3,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 4,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 5,
+        "name": "Heart",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/Heart.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 6,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 7,
+        "name": "Move",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/Move.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 8,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/Sleep.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 9,
+        "name": "Sing",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Jelly_Yellow/Sing.gif",
+        "isShowAds": true,
+        "isShow": true
+      }
+    ]
+  },
+  {
+    "name": "Turtle Cute",
+    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/thumb.png",
+    "isTrending": false,
+    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/template.png",
+    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/preview.png",
+    "anim": [
+      {
+        "id": 1,
+        "name": "Climb",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Climb.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 2,
+        "name": "Dance",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Dance.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 3,
+        "name": "Drop_Done",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Drop_Done.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 4,
+        "name": "Drop_Start",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Drop_Start.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 5,
+        "name": "Eat",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Eat.gif",
+        "isShowAds": false,
+        "isShow": true
+      },
+      {
+        "id": 6,
+        "name": "Fly",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Fly.gif",
+        "isShowAds": true,
+        "isShow": false
+      },
+      {
+        "id": 7,
+        "name": "Move1",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Move1.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 8,
+        "name": "Move2",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Move2.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 9,
+        "name": "Sing",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Sing.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 10,
+        "name": "Sit",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Sit.gif",
+        "isShowAds": true,
+        "isShow": true
+      },
+      {
+        "id": 11,
+        "name": "Sleep",
+        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Sleep.gif",
         "isShowAds": true,
         "isShow": false
       }
@@ -4316,336 +4646,6 @@
         "id": 12,
         "name": "Sleep",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Pichu/Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      }
-    ]
-  },
-  {
-    "name": "Puppy",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/thumb.png",
-    "isTrending": false,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/preview.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Barking",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Barking.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 3,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 4,
-        "name": "Eat",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Eat.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 5,
-        "name": "Guitar",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Guitar.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 6,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 7,
-        "name": "Lying",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Lying.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 8,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Move.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 9,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 10,
-        "name": "Stand",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Puppy/Stand.gif",
-        "isShowAds": true,
-        "isShow": true
-      }
-    ]
-  },
-  {
-    "name": "Super Pig",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/thumb.png",
-    "isTrending": false,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/preview.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Dance",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/Dance.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Drink",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/Drink.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 3,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 4,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 5,
-        "name": "Eat",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/Eat.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 6,
-        "name": "Exercise",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/Exercise.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 7,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 8,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/Move.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 9,
-        "name": "Sing",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/Sing.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 10,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/SuperPig/Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      }
-    ]
-  },
-  {
-    "name": "Turtle Cute",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/thumb.png",
-    "isTrending": false,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/preview.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Climb",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Climb.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 2,
-        "name": "Dance",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Dance.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 3,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 4,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 5,
-        "name": "Eat",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Eat.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 6,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 7,
-        "name": "Move1",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Move1.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 8,
-        "name": "Move2",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Move2.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 9,
-        "name": "Sing",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Sing.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 10,
-        "name": "Sit",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Sit.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 11,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Sleep.gif",
-        "isShowAds": true,
-        "isShow": false
-      }
-    ]
-  },
-  {
-    "name": "Pirate Crab",
-    "pathCate": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/thumb.png",
-    "isTrending": false,
-    "background_template": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/template.png",
-    "pathBackground": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/preview.png",
-    "anim": [
-      {
-        "id": 1,
-        "name": "Blow_Bubbles",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Blow_Bubbles.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 2,
-        "name": "Dance1",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Dance1.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 3,
-        "name": "Dance2",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Dance2.gif",
-        "isShowAds": false,
-        "isShow": true
-      },
-      {
-        "id": 4,
-        "name": "Drop_Done",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Drop_Done.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 5,
-        "name": "Drop_Start",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Drop_Start.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 6,
-        "name": "Eat",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Eat.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 7,
-        "name": "Fly",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Fly.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 8,
-        "name": "Idle",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Idle.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 9,
-        "name": "Move",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Move.gif",
-        "isShowAds": true,
-        "isShow": false
-      },
-      {
-        "id": 10,
-        "name": "Sing",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Sing.gif",
-        "isShowAds": true,
-        "isShow": true
-      },
-      {
-        "id": 11,
-        "name": "Sleep",
-        "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Sleep.gif",
         "isShowAds": true,
         "isShow": false
       }
