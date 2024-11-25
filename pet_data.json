@@ -613,7 +613,7 @@
         "name": "Fly",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatDrakGreen/Fly.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 7,
@@ -843,7 +843,7 @@
         "name": "Fly",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGreen/Fly.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 7,
@@ -1001,7 +1001,7 @@
         "name": "Fly",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatRed/Fly.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 7,
@@ -1331,7 +1331,7 @@
         "name": "Fly",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatLightBlue/Fly.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 7,
@@ -1489,7 +1489,7 @@
         "name": "Fly",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatYellow/Fly.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 7,
@@ -1884,7 +1884,7 @@
         "name": "Fly",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Fly.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 7,
@@ -2351,7 +2351,7 @@
         "name": "Fly",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Fly.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 7,
