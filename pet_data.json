@@ -610,7 +610,7 @@
       },
       {
         "id": 6,
-        "name": "Jump",
+        "name": "Fly",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatDrakGreen/Fly.gif",
         "isShowAds": true,
         "isShow": true
@@ -840,7 +840,7 @@
       },
       {
         "id": 6,
-        "name": "Jump",
+        "name": "Fly",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGreen/Fly.gif",
         "isShowAds": true,
         "isShow": true
@@ -998,7 +998,7 @@
       },
       {
         "id": 6,
-        "name": "Jump",
+        "name": "Fly",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatRed/Fly.gif",
         "isShowAds": true,
         "isShow": true
@@ -1328,7 +1328,7 @@
       },
       {
         "id": 6,
-        "name": "Jump",
+        "name": "Fly",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatLightBlue/Fly.gif",
         "isShowAds": true,
         "isShow": true
@@ -1486,7 +1486,7 @@
       },
       {
         "id": 6,
-        "name": "Jump",
+        "name": "Fly",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatYellow/Fly.gif",
         "isShowAds": true,
         "isShow": true
@@ -1881,7 +1881,7 @@
       },
       {
         "id": 6,
-        "name": "Jump",
+        "name": "Fly",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Fly.gif",
         "isShowAds": true,
         "isShow": true
@@ -2348,7 +2348,7 @@
       },
       {
         "id": 6,
-        "name": "Jump",
+        "name": "Fly",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Fly.gif",
         "isShowAds": true,
         "isShow": true
@@ -3159,7 +3159,7 @@
       },
       {
         "id": 6,
-        "name": "Jump_Parachute",
+        "name": "Fly_Parachute",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Jump_Parachute.gif",
         "isShowAds": true,
         "isShow": true
@@ -4704,7 +4704,7 @@
         "id": 7,
         "name": "Move1",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PapageiCute/Move1.gif",
-        "isShowAds": true,
+        "isShowAds": false,
         "isShow": true
       },
       {
@@ -4733,7 +4733,7 @@
         "name": "Sleep",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PapageiCute/Sleep.gif",
         "isShowAds": false,
-        "isShow": true
+        "isShow": false
       }
     ]
   }
