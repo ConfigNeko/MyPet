@@ -3159,7 +3159,7 @@
       },
       {
         "id": 6,
-        "name": "Fly_Parachute",
+        "name": "Jump_Parachute",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Goodzilla/Jump_Parachute.gif",
         "isShowAds": true,
         "isShow": true
