@@ -297,7 +297,7 @@
         "name": "Move1",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Capybara/Move1.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 9,
@@ -462,7 +462,7 @@
         "name": "Move1",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/CapybaraGreen/Move1.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 9,
@@ -620,14 +620,14 @@
         "name": "Move1",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatDrakGreen/Move1.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 8,
         "name": "Move2",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatDrakGreen/Move2.gif",
         "isShowAds": false,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 9,
@@ -850,14 +850,14 @@
         "name": "Move1",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGreen/Move1.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 8,
         "name": "Move2",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGreen/Move2.gif",
         "isShowAds": false,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 9,
@@ -1008,14 +1008,14 @@
         "name": "Move1",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatRed/Move1.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 8,
         "name": "Move2",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatRed/Move2.gif",
         "isShowAds": false,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 9,
@@ -1259,7 +1259,7 @@
         "name": "Move1",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/CapybaraPink/Move1.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 9,
@@ -1338,14 +1338,14 @@
         "name": "Move1",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatLightBlue/Move1.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 8,
         "name": "Move2",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatLightBlue/Move2.gif",
         "isShowAds": false,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 9,
@@ -1496,14 +1496,14 @@
         "name": "Move1",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatYellow/Move1.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 8,
         "name": "Move2",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatYellow/Move2.gif",
         "isShowAds": false,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 9,
@@ -1891,14 +1891,14 @@
         "name": "Move1",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Move1.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 8,
         "name": "Move2",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatPink/Move2.gif",
         "isShowAds": false,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 9,
@@ -2358,14 +2358,14 @@
         "name": "Move1",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Move1.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 8,
         "name": "Move2",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/JellyCatGrey/Move2.gif",
         "isShowAds": false,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 9,
@@ -3743,7 +3743,7 @@
         "name": "Idle",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PirateCrab/Idle.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 9,
@@ -4080,7 +4080,7 @@
         "name": "Take_Rest",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Kitten/Take_Rest.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 12,
@@ -4526,14 +4526,14 @@
         "name": "Move1",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Move1.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 8,
         "name": "Move2",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/TurtleCute/Move2.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 9,
@@ -4640,7 +4640,7 @@
         "name": "Sit",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/Pichu/Sit.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 12,
@@ -4712,7 +4712,7 @@
         "name": "Move2",
         "path": "https://raw.githubusercontent.com/ConfigNeko/MyPet/refs/heads/main/New%20folder/PapageiCute/Move2.gif",
         "isShowAds": true,
-        "isShow": true
+        "isShow": false
       },
       {
         "id": 9,
